@@ -27,6 +27,8 @@ Můžete si zvolit ze 3 kategorií verzí (LITE, PRO, VIP)
 ### verze 1.0
 * osdtraňuje vodoznak z kalendáře
 * cena: 100 Kč
+![Popisek obrázku](odkaz_na_obrazek.jpg)
+
 
 ### verze 2.0
 * vše co je zahrnuté v předchozích verzích
