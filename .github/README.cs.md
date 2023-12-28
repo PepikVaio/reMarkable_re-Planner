@@ -36,7 +36,7 @@ Nebo webové rozhraní reMarkable
 
 ### Instalace
 Stačí nahrát do reMarkable přes oficiální aplikaci reMarkable nebo webové rozhraní
-[![download](https://img.shields.io/badge/download-latest_release-slategray)](https://github.com/PepikVaio/reMarkable_re-Planner/releases)
+* [![download](https://img.shields.io/badge/download-latest_release-slategray)](https://github.com/PepikVaio/reMarkable_re-Planner/releases)
 
 
 
