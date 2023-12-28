@@ -17,7 +17,7 @@ Můžete si zvolit ze 3 kategorií verzí (LITE, PRO, VIP)
 ### verze 0.0
 * obsahuje vodoznak v kalendáři
 
-[![cena: zdarma](https://img.shields.io/badge/cena:-zdarma-green)]()
+![cena: zdarma](https://img.shields.io/badge/cena:-zdarma-green)
 
 
 ## Verze PRO
@@ -35,7 +35,7 @@ Můžete si zvolit ze 3 kategorií verzí (LITE, PRO, VIP)
 
   * *po žádosti o uvolnění (k dispozici od konce srpna)*
   * *můžete vyzkoušet po zbytek roku zdarma*
-  * [![cena: zdarma](https://img.shields.io/badge/cena:-zdarma-green)]()
+  * ![cena: zdarma](https://img.shields.io/badge/cena:-zdarma-green)
 
 ### verze 3.0
 * vše co je zahrnuté v předchozích verzích
@@ -55,7 +55,7 @@ Můžete si zvolit ze 3 kategorií verzí (LITE, PRO, VIP)
   * *po žádosti o uvolnění, když si nemůžete re-Planner dovolit (student, samoživitelka, důchodce)*
   * *možnost zvolit aktuální nebo následující rok (dle výběru)*
   * ***možné využít pouze 1x na osobu***
-  * [![cena: zdarma](https://img.shields.io/badge/cena:-zdarma-green)]()
+  * ![cena: zdarma](https://img.shields.io/badge/cena:-zdarma-green)
 
 ### verze 5.0
 * vše co je zahrnuté v předchozích verzích
