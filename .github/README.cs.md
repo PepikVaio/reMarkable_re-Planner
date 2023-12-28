@@ -13,6 +13,7 @@ Pdf kalendář pro reMarkable 1 a 2.
 * Verze 2024 je nyní kompatibilní s verzí reMarkable 3.xx.
 
 
+
 ## Popis
 
 Jedná se o šablonu pro reMarkable ve formátu pdf, kterou lze na přání upravit nebo používat tak jak je zcela zdarma.
@@ -22,6 +23,7 @@ Jedná se o šablonu pro reMarkable ve formátu pdf, kterou lze na přání upra
 Lze použít i na jiných zařízeních
 * Testováno - iPad
 * Netestováno - Supernote, Kindle Scribe, OnyxBoox
+
 
 
 ## Začínáme
@@ -36,8 +38,8 @@ Nebo webové rozhraní reMarkable
 
 ### Instalace
 Stačí nahrát do reMarkable přes oficiální aplikaci reMarkable nebo webové rozhraní
-* [![download](https://img.shields.io/badge/download-latest_release-slategray)](https://github.com/PepikVaio/reMarkable_re-Planner/releases)
 
+[![download](https://img.shields.io/badge/download-latest_release-slategray)](https://github.com/PepikVaio/reMarkable_re-Planner/releases)
 
 
 ### Používání
