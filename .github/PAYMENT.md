@@ -35,8 +35,8 @@ Je několik verzí, které se dají objednat
 ### verze 3.0
 * vše co je zahrnuté v předchozích verzích
 * cena: zdarma
-- po žádosti o uvolnění (k dispozici od konce srpna)
-- můžete vyzkoušet po zbytek roku zdarma
+  * *po žádosti o uvolnění (k dispozici od konce srpna)*
+  * *můžete vyzkoušet po zbytek roku zdarma*
 
 ### verze 4.0
 * vše co je zahrnuté v předchozích verzích
@@ -54,52 +54,27 @@ Je několik verzí, které se dají objednat
 ### verze 6.0
 * vše co je zahrnuté v předchozích verzích
 * cena: zdarma
-* *po žádosti o uvolnění, když si nemůžete re-Planner dovolit (student, samoživitelka, důchodce)*
-* *možnost zvolit aktuální nebo následující rok (dle výběru)*
-* ***možné využít pouze 1x na osobu***
+  * ***možné využít pouze 1x na osobu***
+  * *po žádosti o uvolnění, když si nemůžete re-Planner dovolit (student, samoživitelka, důchodce)*
+  * *možnost zvolit aktuální nebo následující rok (dle výběru)*
 
 ### verze 7.0
 * vše co je zahrnuté v předchozích verzích
 * změna nastavení - kompletní přepis textu (možný překlad do jiného jazyka než je podporovaný - možná budu potřebovat spolupráci a korekci)
 * změna nastavení - změna fontu (dle výběru)
 * cena: 1.000 Kč
-- *časově velmi náročné*
+  * *časově velmi náročné*
 
 ### verze 8.0
 * vše co je zahrnuté v předchozích verzích
 * změna nastavení - kompletní změna rozvržení
 * cena: 1.500 Kč
-* *neomezeno časovou náročností*
-* ***vyhrazuji si právo zakázku odmítnout, pokud uznám za vhodné, že realizace není možná***
+  * ***vyhrazuji si právo zakázku odmítnout, pokud uznám za vhodné, že realizace není možná***
+  * *neomezeno časovou náročností*
 
 ### verze VIP
 * vše co je zahrnuté v předchozích verzích
 * cena: libovolná
-* *Pouze pro vybrané osoby, jako poděkování těm, kteří mě podpořili a objednali si první re-Planner na rok 2023*
+  * *Pouze pro vybrané osoby, jako poděkování těm, kteří mě podpořili a objednali si první re-Planner na rok 2023*
 
-- Batelka Honza | Bilý Jakub | Brož František
-- Dlouhá Marcela Myš
-- Fiantek Karel
-- Fojtik Rostislav Natan
-- Geršl Zdeněk
-- Grombíř Jakub
-- Guillot Inès - 2023
-- Hamed Mohamed
-- Holec Ludvik
-- Klement Jaromír
-- Kliment Peter
-- Körner Kevin 
-- Korzec Roman
-- Koustky Pavel
-- Kysela Petr
-- Lamprecht Andrej
-- Majer Mirek
-- Němec Václav
-- Plíhal Jan
-- Porteš Jiří
-- Pospíšil Marek Maryl
-- Šumbera Jan
-- Trnečka Ivan
-- Valenta Alda Valy
-- Venglářová Martina
-- Vykuk Kluk
+- Batelka Honza | Bilý Jakub | Brož František | Dlouhá Marcela Myš | Fiantek Karel | Fojtik Rostislav Natan | Geršl Zdeněk | Grombíř Jakub | Guillot Inès | Hamed |Mohamed | Holec Ludvik | Klement Jaromír | Kliment Peter | Körner Kevin | Korzec Roman | Koustky Pavel | Kysela Petr | Lamprecht Andrej | Majer Mirek | Němec Václav | Plíhal Jan | Porteš Jiří | Pospíšil Marek Maryl | Šumbera Jan | Trnečka Ivan | Valenta Alda Valy | Venglářová Martina | Vykuk Kluk
