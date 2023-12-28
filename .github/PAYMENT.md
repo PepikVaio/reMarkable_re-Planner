@@ -1,9 +1,7 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PepikVaio/reMarkable_re-Planner/tree/main?tab=readme-ov-file)
-[![cs](https://img.shields.io/badge/lang-cs-springgreen.svg)](https://github.com/PepikVaio/reMarkable_re-Planner/tree/main?tab=readme-ov-file)
-
+[![cs](https://img.shields.io/badge/lang-cs-springgreen.svg)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/README.cs.md)
 [![I accept: PayPal](https://img.shields.io/badge/I_accept-PayPal-blue)](http://paypal.me/josefwajsar)
 [![I accept: AirBank](https://img.shields.io/badge/I_accept-AirBankBank-green)](https://www.airbank.cz/)
-
 
 
 # Podmínky placení
