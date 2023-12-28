@@ -82,5 +82,4 @@ Můžete si zvolit ze 3 kategorií verzí (LITE, PRO, VIP)
 * cena: libovolná
 
 ***Pouze pro vybrané osoby, jako poděkování těm, kteří mě podpořili a objednali si první re-Planner na rok 2023***
-Řazeno abecedně
 * *Batelka Honza | Bilý Jakub | Brož František | Dlouhá Marcela Myš | Fiantek Karel | Fojtik Rostislav Natan | Geršl Zdeněk | Grombíř Jakub | Guillot Inès | Hamed |Mohamed | Holec Ludvik | Klement Jaromír | Kliment Peter | Körner Kevin | Korzec Roman | Koustky Pavel | Kysela Petr | Lamprecht Andrej | Majer Mirek | Němec Václav | Plíhal Jan | Porteš Jiří | Pospíšil Marek Maryl | Šumbera Jan | Trnečka Ivan | Valenta Alda Valy | Venglářová Martina | Vykuk Kluk*
