@@ -58,9 +58,9 @@ You can choose from 3 versions (LITE, PRO, VIP)
 ### Version 5.0
 * Everything included in previous versions
 * Settings change - complete text rewrite (possible translation into a language not supported)
-* I appreciate cooperation and text correction during translation into your language
 * Settings change - font change (as selected)
-* *very time-consuming*
+  * I appreciate cooperation and text correction during translation into your language
+  * *very time-consuming*
 
 [![Price: 1000 CZK](https://img.shields.io/badge/price:-1000_CZK-green)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT_AirBank/1000%20K%C4%8D.png)
 
