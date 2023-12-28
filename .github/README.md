@@ -35,7 +35,8 @@ Or the reMarkable web interface
 
 ### Installation
 Just upload to reMarkable via the official reMarkable app or web interface
-* [![download](https://img.shields.io/badge/download-latest_release-slategray)](https://github.com/PepikVaio/reMarkable_re-Planner/releases)
+
+[![download](https://img.shields.io/badge/download-latest_release-slategray)](https://github.com/PepikVaio/reMarkable_re-Planner/releases)
 
 ### Using
 Enjoy planning :)
