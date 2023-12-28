@@ -15,4 +15,4 @@ This work is protected by copyright and licensed under the Creative Commons Attr
 ### Čeština
 Toto dílo je chráněno autorským právem a je licencováno pod licencí Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International Licence. Můžete kopírovat, distribuovat a přenášet dílo pouze za nekomerčních podmínek a bez vytváření odvozených děl.
 
-[![cs](https://img.shields.io/badge/detailní_informace-cs-springgreen.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.cs)
+[![cs](https://img.shields.io/badge/details_info-cs-springgreen.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.cs)
