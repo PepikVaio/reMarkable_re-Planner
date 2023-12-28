@@ -15,6 +15,10 @@ Pdf kalendář pro reMarkable 1 a 2.
 
 ## Popis
 
+Jedná se o šablonu pro reMarkable ve formátu pdf, kterou lze na přání upravit nebo používat tak jak je zcela zdarma.
+* Pokud budete mít zájem o úpravu, neváhejte mě kontaktovat.
+* Věnujte prosím pozornost licenčním podmínkám, kde se dozvíte více informací.
+
 Lze použít i na jiných zařízeních
 * Testováno - iPad
 * Netestováno - Supernote, Kindle Scribe, OnyxBoox
@@ -32,6 +36,9 @@ Nebo webové rozhraní reMarkable
 
 ### Instalace
 Stačí nahrát do reMarkable přes oficiální aplikaci reMarkable nebo webové rozhraní
+[![download](https://img.shields.io/badge/download-latest_release-slategray)](https://github.com/PepikVaio/reMarkable_re-Planner/releases)
+
+
 
 ### Používání
 Užívejte si plánování :)
