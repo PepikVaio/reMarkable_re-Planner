@@ -26,12 +26,12 @@ Můžete si zvolit ze 3 kategorií verzí (LITE, PRO, VIP)
 
 ### verze 1.0
 * osdtraňuje vodoznak z kalendáře
-[![cena: 100 Kč](https://img.shields.io/badge/cena:-100_Kč-blue)](./PAYMENT_AirBank/100 Kč.png)
+[![cena: 100 Kč](https://img.shields.io/badge/cena:-100_Kč-blue)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT_AirBank/100%20K%C4%8D.png)
 
 ### verze 2.0
 * vše co je zahrnuté v předchozích verzích
 * možnost zvolit verzi pro leváky nebo praváky (nativně je verze pro leváky)
-* cena: 300 Kč
+[![cena: 300 Kč](https://img.shields.io/badge/cena:-300_Kč-blue)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT_AirBank/300%20K%C4%8D.png)
 
 
 ### verze 3.0
@@ -46,12 +46,12 @@ Můžete si zvolit ze 3 kategorií verzí (LITE, PRO, VIP)
 * změna nastavení - úprava sloupců (změna velikostí a zobrazení)
 * změna nastavení - úprava řádků (počet a velikost)
 * změna nastavení - úprava barev
-* cena: 500 Kč
+[![cena: 500 Kč](https://img.shields.io/badge/cena:-500_Kč-blue)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT_AirBank/500%20K%C4%8D.png)
 
 ### verze 5.0
 * vše co je zahrnuté v předchozích verzích
 * zapsání významných dnů (narozeniny, svátky, svatba, olsava, atd...)
-* cena: 750 Kč
+[![cena: 750 Kč](https://img.shields.io/badge/cena:-750_Kč-blue)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT_AirBank/750%20K%C4%8D.png)
 
 ### verze 6.0
 * vše co je zahrnuté v předchozích verzích
@@ -65,13 +65,13 @@ Můžete si zvolit ze 3 kategorií verzí (LITE, PRO, VIP)
 * změna nastavení - kompletní přepis textu (možný překlad do jiného jazyka než je podporovaný)
   * ocením spolupráci a korekci texu při překladu do vašeho jazyka
 * změna nastavení - změna fontu (dle výběru)
-* cena: 1.000 Kč
+[![cena: 1000 Kč](https://img.shields.io/badge/cena:-1000_Kč-blue)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT_AirBank/1000%20K%C4%8D.png)
   * *časově velmi náročné*
 
 ### verze 8.0
 * vše co je zahrnuté v předchozích verzích
 * změna nastavení - kompletní změna rozvržení
-* cena: 1.500 Kč
+[![cena: 1500 Kč](https://img.shields.io/badge/cena:-1500_Kč-blue)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT_AirBank/500%20K%C4%8D.png)
   * ***vyhrazuji si právo zakázku odmítnout, pokud uznám za vhodné, že realizace není možná***
   * *neomezeno časovou náročností*
 
@@ -79,7 +79,7 @@ Můžete si zvolit ze 3 kategorií verzí (LITE, PRO, VIP)
 ## Verze VIP
 
 * vše co je zahrnuté v předchozích verzích
-* cena: libovolná
+[![cena: VIP](https://img.shields.io/badge/cena:-VIP_Kč-blue)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT_AirBank/VIP.png)
 
 ***Pouze pro vybrané osoby, jako poděkování těm, kteří mě podpořili a objednali si první re-Planner na rok 2023!***
 * *Batelka Honza | Bilý Jakub | Brož František | Dlouhá Marcela Myš | Fiantek Karel | Fojtik Rostislav Natan | Geršl Zdeněk | Grombíř Jakub | Guillot Inès | Hamed |Mohamed | Holec Ludvik | Klement Jaromír | Kliment Peter | Körner Kevin | Korzec Roman | Koustky Pavel | Kysela Petr | Lamprecht Andrej | Majer Mirek | Němec Václav | Plíhal Jan | Porteš Jiří | Pospíšil Marek Maryl | Šumbera Jan | Trnečka Ivan | Valenta Alda Valy | Venglářová Martina | Vykuk Kluk*
