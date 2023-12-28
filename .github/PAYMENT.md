@@ -1,11 +1,8 @@
+[![I accept: PayPal](https://img.shields.io/badge/I_accept-PayPal-blue)](http://paypal.me/josefwajsar)
+[![I accept: AirBank](https://img.shields.io/badge/I_accept-AirBankBank-green)](https://www.airbank.cz/)
+
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PepikVaio/reMarkable_re-Planner/tree/main?tab=readme-ov-file)
 [![cs](https://img.shields.io/badge/lang-cs-springgreen.svg)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/README.cs.md)
-
-https://img.shields.io/badge/I_accept-PayPal-blue
-
-[![I accept: PayPal](https://img.shields.io/badge/I_accept-PayPal-blue)](http://paypal.me/josefwajsar)
-[![I accept: AirBank](https://img.shields.io/badge/I_accept-Bank_Transfer-green)](https://www.airbank.cz/)
-
 
 
 # Podmínky placení
@@ -13,7 +10,6 @@ https://img.shields.io/badge/I_accept-PayPal-blue
 Můžete si zvolit ze 3 kategorií verzí (LITE, PRO, VIP)
 * Je několik verzí, které se dají objednat
 * Každá verze obsahuje vlastní vylepšení a možnosti u pravení
-
 
 
 ## Verze LITE
@@ -86,8 +82,3 @@ Můžete si zvolit ze 3 kategorií verzí (LITE, PRO, VIP)
 * *Batelka Honza | Bilý Jakub | Brož František | Dlouhá Marcela Myš | Fiantek Karel | Fojtik Rostislav Natan | Geršl Zdeněk | Grombíř Jakub | Guillot Inès | Hamed |Mohamed | Holec Ludvik | Klement Jaromír | Kliment Peter | Körner Kevin | Korzec Roman | Koustky Pavel | Kysela Petr | Lamprecht Andrej | Majer Mirek | Němec Václav | Plíhal Jan | Porteš Jiří | Pospíšil Marek Maryl | Šumbera Jan | Trnečka Ivan | Valenta Alda Valy | Venglářová Martina | Vykuk Kluk*
 
 [![cena: VIP](https://img.shields.io/badge/cena:-V_I_P_*-yellow)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT_AirBank/VIP.png)
-
-
-
-
-
