@@ -4,7 +4,7 @@
 https://img.shields.io/badge/I_accept-PayPal-blue
 
 [![I accept: PayPal](https://img.shields.io/badge/I_accept-PayPal-blue)](http://paypal.me/josefwajsar)
-[![I accept: Bank Transfer](https://img.shields.io/badge/I_accept-Bank_Transfer-green)](https://remarkable.com/store/remarkable)
+[![I accept: AirBank](https://img.shields.io/badge/I_accept-Bank_Transfer-green)](https://www.airbank.cz/)
 
 
 
@@ -27,8 +27,7 @@ Můžete si zvolit ze 3 kategorií verzí (LITE, PRO, VIP)
 ### verze 1.0
 * osdtraňuje vodoznak z kalendáře
 * cena: 100 Kč
-![Popisek obrázku](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/100%20K%C4%8D.png)
-
+[![cena: 100 Kč](https://img.shields.io/badge/cena:-100_Kč-blue)](http://paypal.me/josefwajsar)
 
 ### verze 2.0
 * vše co je zahrnuté v předchozích verzích
