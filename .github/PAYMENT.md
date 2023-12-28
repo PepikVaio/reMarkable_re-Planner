@@ -21,26 +21,26 @@ You can choose from 3 versions (LITE, PRO, VIP)
 ## PRO Version
 
 ### Version 1.0
-* Removes watermark from the calendar
+* removes watermark from the calendar
 
 [![Price: 100 CZK](https://img.shields.io/badge/price:-100_CZK-green)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT_AirBank/100%20K%C4%8D.png)
 
 ### Version 2.0
-* Everything included in previous versions
-* Option to choose left-handed or right-handed version (default is left-handed)
+* everything included in previous versions
+* option to choose left-handed or right-handed version (default is left-handed)
 
 [![Price: 300 CZK](https://img.shields.io/badge/price:-300_CZK-green)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT_AirBank/300%20K%C4%8D.png)
 
-* *Available upon request (available from the end of August)*
-* *You can try it for free for the rest of the year*
-* ![Price: free](https://img.shields.io/badge/price:-free-green)
+* *available upon request (available from the end of August)*
+* *you can try it for free for the rest of the year*
+* ![price: free](https://img.shields.io/badge/price:-free-green)
 
 ### Version 3.0
-* Everything included in previous versions
-* Customization of the calendar cover (own image and footer text)
-* Settings change - column adjustment (size and display change)
-* Settings change - row adjustment (number and size)
-* Settings change - color adjustment
+* everything included in previous versions
+* customization of the calendar cover (own image and footer text)
+* settings change - column adjustment (size and display change)
+* settings change - row adjustment (number and size)
+* settings change - color adjustment
 
 [![Price: 500 CZK](https://img.shields.io/badge/price:-500_CZK-green)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT_AirBank/500%20K%C4%8D.png)
 
