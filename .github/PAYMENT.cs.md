@@ -59,8 +59,8 @@ Můžete si zvolit ze 3 kategorií verzí (LITE, PRO, VIP)
 ### verze 5.0
 * vše co je zahrnuté v předchozích verzích
 * změna nastavení - kompletní přepis textu (možný překlad do jiného jazyka než je podporovaný)
-  * ocením spolupráci a korekci texu při překladu do vašeho jazyka
 * změna nastavení - změna fontu (dle výběru)
+  * ocením spolupráci a korekci texu při překladu do vašeho jazyka
   * *časově velmi náročné*
 
 [![cena: 1000 Kč](https://img.shields.io/badge/cena:-1000_Kč-green)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT_AirBank/1000%20K%C4%8D.png)
