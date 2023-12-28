@@ -4,7 +4,6 @@
 [![I accept: AirBank](https://img.shields.io/badge/I_accept-AirBankBank-green)](https://www.airbank.cz/)
 
 
-
 # Podmínky placení
 
 Můžete si zvolit ze 3 kategorií verzí (LITE, PRO, VIP)
