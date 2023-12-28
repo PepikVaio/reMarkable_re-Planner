@@ -26,8 +26,7 @@ Můžete si zvolit ze 3 kategorií verzí (LITE, PRO, VIP)
 
 ### verze 1.0
 * osdtraňuje vodoznak z kalendáře
-* cena: 100 Kč
-[![cena: 100 Kč](https://img.shields.io/badge/cena:-100_Kč-blue)](http://paypal.me/josefwajsar)
+[![cena: 100 Kč](https://img.shields.io/badge/cena:-100_Kč-blue)](./PAYMENT_AirBank/100 Kč.png)
 
 ### verze 2.0
 * vše co je zahrnuté v předchozích verzích
