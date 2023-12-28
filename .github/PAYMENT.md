@@ -22,23 +22,23 @@ Je několik verzí, které se dají objednat
 
 ## Verze Pro  
 
-### 1.0
+### verze 1.0
 * osdtraňuje vodoznak z kalendáře
 * cena: 100 Kč
 
-### 2.0
+### verze 2.0
 * vše co je zahrnuté v předchozích verzích
 * možnost zvolit verzi pro leváky nebo praváky (nativně je verze pro leváky)
 * cena: 300 Kč
 
 
-### 3.0
+### verze 3.0
 * vše co je zahrnuté v předchozích verzích
 * cena: zdarma
 - po žádosti o uvolnění (k dispozici od konce srpna)
 - můžete vyzkoušet po zbytek roku zdarma
 
-### 4.0
+### verze 4.0
 * vše co je zahrnuté v předchozích verzích
 * přizpůsobení titulní strany kalendáře (vlastní obrázek a text zápatí)
 * změna nastavení - úprava sloupců (změna velikostí a zobrazení)
@@ -46,40 +46,38 @@ Je několik verzí, které se dají objednat
 * změna nastavení - úprava barev
 * cena: 500 Kč
 
-### 4.0
+### verze 5.0
 * vše co je zahrnuté v předchozích verzích
 * zapsání významných dnů (narozeniny, svátky, svatba, olsava, atd...)
 * cena: 750 Kč
 
-### 5.0
+### verze 6.0
 * vše co je zahrnuté v předchozích verzích
 * cena: zdarma
-- po žádosti o uvolnění, když si nemůžete re-Planner dovolit (student, samoživitelka, důchodce)
-- možnost zvolit aktuální nebo následující rok (dle výběru)
-- možné využít pouze 1x na osobu
+* *po žádosti o uvolnění, když si nemůžete re-Planner dovolit (student, samoživitelka, důchodce)*
+* *možnost zvolit aktuální nebo následující rok (dle výběru)*
+* ***možné využít pouze 1x na osobu***
 
-### 6.0
+### verze 7.0
 * vše co je zahrnuté v předchozích verzích
 * změna nastavení - kompletní přepis textu (možný překlad do jiného jazyka než je podporovaný - možná budu potřebovat spolupráci a korekci)
 * změna nastavení - změna fontu (dle výběru)
 * cena: 1.000 Kč
-- časově velmi náročné
+- *časově velmi náročné*
 
-### 7.0
+### verze 8.0
 * vše co je zahrnuté v předchozích verzích
 * změna nastavení - kompletní změna rozvržení
 * cena: 1.500 Kč
-- neomezeno časovou náročností
-- vyhrazuji si právo zakázku odmítnout, pokud uznám za vhodné, že realizace není možná
+* *neomezeno časovou náročností*
+* ***vyhrazuji si právo zakázku odmítnout, pokud uznám za vhodné, že realizace není možná***
 
-### VIP
+### verze VIP
 * vše co je zahrnuté v předchozích verzích
 * cena: libovolná
-- Pouze pro vybrané osoby, jako poděkování těm, kteří mě podpořili a objednali si první re-Planner na rok 2023
+* *Pouze pro vybrané osoby, jako poděkování těm, kteří mě podpořili a objednali si první re-Planner na rok 2023*
 
-- Batelka Honza
-- Bilý Jakub
-- Brož František
+- Batelka Honza | Bilý Jakub | Brož František
 - Dlouhá Marcela Myš
 - Fiantek Karel
 - Fojtik Rostislav Natan
