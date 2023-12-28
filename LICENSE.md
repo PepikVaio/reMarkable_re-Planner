@@ -1,3 +1,7 @@
+[![en](https://img.shields.io/badge/payment-en-blue.svg)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT.md)
+[![cs](https://img.shields.io/badge/platba-cs-green.svg)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT.cs.md)
+
+
 ## Creative Commons Attribution-NonCommercial-NoDerivs 4.0
 International Licence (CC BY-NC-ND 4.0)
 
