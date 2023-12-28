@@ -27,7 +27,7 @@ Můžete si zvolit ze 3 kategorií verzí (LITE, PRO, VIP)
 ### verze 1.0
 * osdtraňuje vodoznak z kalendáře
 * cena: 100 Kč
-![Popisek obrázku](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/100%20K%C4%8D.png)
+![Popisek obrázku](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/100%20K%C4%8D.png){width=300px}
 
 
 ### verze 2.0
