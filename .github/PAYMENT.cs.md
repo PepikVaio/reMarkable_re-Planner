@@ -11,7 +11,7 @@ Můžete si zvolit ze 3 kategorií verzí (LITE, PRO, VIP)
 * Každá verze obsahuje vlastní vylepšení a možnosti u pravení
 
 
-## Verze LITE
+## LITE Verze
 
 ### verze 0.0
 * obsahuje vodoznak v kalendáři
@@ -19,7 +19,7 @@ Můžete si zvolit ze 3 kategorií verzí (LITE, PRO, VIP)
 ![cena: zdarma](https://img.shields.io/badge/cena:-zdarma-green)
 
 
-## Verze PRO
+## PRO Verze
 
 ### verze 1.0
 * osdtraňuje vodoznak z kalendáře
@@ -74,7 +74,7 @@ Můžete si zvolit ze 3 kategorií verzí (LITE, PRO, VIP)
 [![cena: 1500 Kč](https://img.shields.io/badge/cena:-1500_Kč-green)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT_AirBank/500%20K%C4%8D.png)
 
 
-## Verze VIP
+## VIP Verze
 * vše co je zahrnuté v předchozích verzích
 
 ***!Pouze pro vybrané osoby, jako poděkování těm, kteří mě podpořili a objednali si první re-Planner na rok 2023!***
