@@ -12,7 +12,7 @@ You can choose from 3 versions (LITE, PRO, VIP)
 
 ## LITE Version
 
-### Version 0.0
+### version 0.0
 * includes watermark in the calendar
 
 ![Price: free](https://img.shields.io/badge/price:-free-green)
@@ -20,12 +20,12 @@ You can choose from 3 versions (LITE, PRO, VIP)
 
 ## PRO Version
 
-### Version 1.0
+### version 1.0
 * removes watermark from the calendar
 
 [![price: 100 CZK](https://img.shields.io/badge/price:-100_CZK-green)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT_AirBank/100%20K%C4%8D.png)
 
-### Version 2.0
+### version 2.0
 * everything included in previous versions
 * option to choose left-handed or right-handed version (default is left-handed)
 
@@ -35,7 +35,7 @@ You can choose from 3 versions (LITE, PRO, VIP)
 * *you can try it for free for the rest of the year*
 * ![price: free](https://img.shields.io/badge/price:-free-green)
 
-### Version 3.0
+### version 3.0
 * everything included in previous versions
 * customization of the calendar cover (own image and footer text)
 * settings change - column adjustment (size and display change)
@@ -44,7 +44,7 @@ You can choose from 3 versions (LITE, PRO, VIP)
 
 [![price: 500 CZK](https://img.shields.io/badge/price:-500_CZK-green)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT_AirBank/500%20K%C4%8D.png)
 
-### Version 4.0
+### version 4.0
 * everything included in previous versions
 * recording of significant days (birthdays, holidays, weddings, celebrations, etc...)
 
@@ -52,10 +52,10 @@ You can choose from 3 versions (LITE, PRO, VIP)
 
 * *avilable upon request, if you cannot afford re-Planner (student, single parent, retiree)*
 * *option to choose the current or next year (as selected)*
-* ***Can be used only once per person***
+* ***can be used only once per person***
 * ![price: free](https://img.shields.io/badge/price:-free-green)
 
-### Version 5.0
+### version 5.0
 * everything included in previous versions
 * settings change - complete text rewrite (possible translation into a language not supported)
 * settings change - font change (as selected)
@@ -64,7 +64,7 @@ You can choose from 3 versions (LITE, PRO, VIP)
 
 [![price: 1000 CZK](https://img.shields.io/badge/price:-1000_CZK-green)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT_AirBank/1000%20K%C4%8D.png)
 
-### Version 6.0
+### version 6.0
 * everything included in previous versions
 * settings change - complete layout change
 * ***i reserve the right to refuse the order if I deem it appropriate that the implementation is not possible***
