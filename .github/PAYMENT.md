@@ -1,10 +1,10 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PepikVaio/reMarkable_re-Planner/tree/main?tab=readme-ov-file)
 [![cs](https://img.shields.io/badge/lang-cs-springgreen.svg)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/README.cs.md)
-[![supported: iPad](https://img.shields.io/badge/iPad-supported-green)](https://www.apple.com/cz/ipad/)
 
-[![supported: rM1](https://img.shields.io/badge/rM1-supported-green)](https://remarkable.com/store/remarkable)
-[![supported: rM2](https://img.shields.io/badge/rM2-supported-green)](https://remarkable.com/store/remarkable-2)
-[![supported: FW](https://img.shields.io/badge/reMarkable-Compatible_with_FW_3.xx-green)]()
+https://img.shields.io/badge/I_accept-PayPal-blue
+
+[![I accept: PayPal](https://img.shields.io/badge/I_accept-PayPal-blue)](https://www.paypal.com/qrcodes/p2pqrc/NBBLNPA3YCRQS)
+[![I accept: Bank Transfer](https://img.shields.io/badge/I_accept-Bank_Transfer-green)](https://remarkable.com/store/remarkable)
 
 
 
@@ -83,3 +83,84 @@ Můžete si zvolit ze 3 kategorií verzí (LITE, PRO, VIP)
 
 ***Pouze pro vybrané osoby, jako poděkování těm, kteří mě podpořili a objednali si první re-Planner na rok 2023!***
 * *Batelka Honza | Bilý Jakub | Brož František | Dlouhá Marcela Myš | Fiantek Karel | Fojtik Rostislav Natan | Geršl Zdeněk | Grombíř Jakub | Guillot Inès | Hamed |Mohamed | Holec Ludvik | Klement Jaromír | Kliment Peter | Körner Kevin | Korzec Roman | Koustky Pavel | Kysela Petr | Lamprecht Andrej | Majer Mirek | Němec Václav | Plíhal Jan | Porteš Jiří | Pospíšil Marek Maryl | Šumbera Jan | Trnečka Ivan | Valenta Alda Valy | Venglářová Martina | Vykuk Kluk*
+
+
+
+
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick" />
+<input type="hidden" name="hosted_button_id" value="2RLGL72A9BWZJ" />
+<table>
+<tr>
+<td>
+<input type="hidden" name="on0" value="Choose Version"/>
+Choose Version
+</td>
+</tr>
+<tr>
+<td>
+<select name="os0">
+<option value="LITE">
+LITE
+</option>
+<option value="PRO">
+PRO
+</option>
+<option value="VIP">
+VIP
+</option>
+</select>
+</td>
+</tr>
+<tr>
+<td>
+<input type="hidden" name="on1" value="Only for - Version PRO"/>
+Only for - Version PRO
+</td>
+</tr>
+<tr>
+<td>
+<select name="os1">
+<option value="PRO 1.0">
+PRO 1.0
+</option>
+<option value="PRO 2.0">
+PRO 2.0
+</option>
+<option value="PRO 3.0">
+PRO 3.0
+</option>
+<option value="PRO 4.0">
+PRO 4.0
+</option>
+<option value="PRO 5.0">
+PRO 5.0
+</option>
+<option value="PRO 6.0">
+PRO 6.0
+</option>
+<option value="PRO 7.0">
+PRO 7.0
+</option>
+<option value="PRO 8.0">
+PRO 8.0
+</option>
+</select>
+</td>
+</tr>
+<tr>
+<td>
+<input type="hidden" name="on2" value="Coment:"/>
+Coment:
+</td>
+</tr>
+<tr>
+<td>
+<input type="text" name="os2" maxLength="200" />
+</td>
+</tr>
+</table>
+<input type="hidden" name="currency_code" value="CZK" />
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Buy Now" />
+</form>
