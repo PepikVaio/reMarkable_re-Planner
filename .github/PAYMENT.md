@@ -20,7 +20,7 @@ Můžete si zvolit ze 3 kategorií verzí (LITE, PRO, VIP)
 
 ### verze 1.0
 * obsahuje vodoznak v kalendáři
-[![cena: zdarma](https://img.shields.io/badge/cena:_zdarma-green)]()
+  [![cena: zdarma](https://img.shields.io/badge/cena:_zdarma-green)]()
 
 
 ## Verze PRO
