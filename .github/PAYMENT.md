@@ -29,9 +29,9 @@ Můžete si zvolit ze 3 kategorií verzí (LITE, PRO, VIP)
 * [![cena: 100 Kč](https://img.shields.io/badge/cena:-100_Kč-blue)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT_AirBank/100%20K%C4%8D.png)
 
 ### verze 2.0
+[![cena: 300 Kč](https://img.shields.io/badge/cena:-300_Kč-blue)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT_AirBank/300%20K%C4%8D.png)
 * vše co je zahrnuté v předchozích verzích
 * možnost zvolit verzi pro leváky nebo praváky (nativně je verze pro leváky)
-* [![cena: 300 Kč](https://img.shields.io/badge/cena:-300_Kč-blue)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT_AirBank/300%20K%C4%8D.png)
 
 
 ### verze 3.0
