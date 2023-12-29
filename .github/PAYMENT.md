@@ -6,8 +6,15 @@
 # Payment Terms
 
 You can choose from 3 versions (LITE, PRO, VIP)
-* There are several versions available for order
 * Each version includes specific enhancements and customization options
+
+### Add payment information
+For better traceability, please add the payment information in your banking
+* Message to beneficiaries:
+```
+[your name] - re-Planner [year]
+```
+
 
 
 ## LITE Version
