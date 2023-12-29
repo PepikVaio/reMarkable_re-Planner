@@ -10,37 +10,44 @@
 # re-Planner - Kalendář pro reMarkable a další!
 
 Pdf kalendář pro reMarkable 1 a 2.
-* Verze 2024 je nyní kompatibilní s verzí reMarkable 3.xx.
+* verze 2024 je nyní kompatibilní s verzí reMarkable 3.xx.
 
 
 
 ## Popis
 
 Jedná se o šablonu pro reMarkable ve formátu pdf, kterou lze na přání upravit nebo používat tak jak je zcela zdarma.
-* Pokud budete mít zájem o úpravu, neváhejte mě kontaktovat.
-* Věnujte prosím pozornost licenčním podmínkám, kde naleznete další informace a také podmínky platby.
+* pokud budete mít zájem o úpravu, neváhejte mě kontaktovat.
+* věnujte prosím pozornost licenčním podmínkám, kde naleznete další informace a také podmínky platby.
 
 Lze použít i na jiných zařízeních
-* Testováno - iPad
-* Netestováno - Supernote, Kindle Scribe, OnyxBoox
+* testováno - iPad
+* netestováno - Supernote | Kindle Scribe | OnyxBoox
 
 
 
 ## Začínáme
 
+### Ke stažení
+K dispozici je verze lite, která je zcela zdarma a neobsahuje žádné omezení funkčnosti.
+* obsahuje vodoznak
+
+[![download](https://img.shields.io/badge/download-latest_release-slategray)](https://github.com/PepikVaio/reMarkable_re-Planner/releases)
+
+Pokud budete mít zájem o verzi pro, která neobsahuje vodoznak a přidává možnost plně si plánovač nakonfigurovat, neváhejte mě kontaktovat.
+
+[![en](https://img.shields.io/badge/payment-en-blue.svg)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT.md)
+[![cs](https://img.shields.io/badge/payment-cs-green.svg)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT.cs.md)
+
 ### Závislosti
 
-Oficiální program od reMarkable nainstalovaný v PC
-* [Desktop app](https://my.remarkable.com/device/desktop)
+Oficiální program od reMarkable nainstalovaný v PC nebo webové rozhraní reMarkable
 
-Nebo webové rozhraní reMarkable
+* [Desktop app](https://my.remarkable.com/device/desktop)
 * [Webové rozhraní](https://my.remarkable.com/myfiles)
 
 ### Instalace
 Stačí nahrát do reMarkable přes oficiální aplikaci reMarkable nebo webové rozhraní
-
-[![download](https://img.shields.io/badge/download-latest_release-slategray)](https://github.com/PepikVaio/reMarkable_re-Planner/releases)
-
 
 ### Používání
 Užívejte si plánování :)
@@ -59,13 +66,13 @@ Wajsar Josef
 ## Historie verzí
 
 2024
-* Přidaný 1x nový měsíc pro následující rok (leden)
-* Změna barvy ikon
-* Ikony se zaoblenými rohy
-* Různé opravy chyb a optimalizace
+* přidaný 1x nový měsíc pro následující rok (leden)
+* změna barvy ikon
+* ikony se zaoblenými rohy
+* různé opravy chyb a optimalizace
 
 2023
-* První vydání
+* první vydání
 
 
 ## Poděkování
