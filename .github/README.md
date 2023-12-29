@@ -14,7 +14,7 @@ Pdf calendar for reMarkable 1 and 2
 
 ## Description
 
-This is a template for reMarkable in PDF format that can be modified or used as is completely free of charge
+This is a template for reMarkable 1 and 2 in PDF format that can be modified or used as is completely free of charge
 * if you are interested in customization, feel free to contact me
 * please pay attention to the license terms for further information and payment terms
 
