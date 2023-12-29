@@ -11,7 +11,7 @@
 
 Pdf kalendář pro reMarkable 1 a 2.
 * verze 2024 je nyní kompatibilní s verzí reMarkable 3.xx.
-
+* nejsou potřeba žádné hacky
 
 
 ## Popis
