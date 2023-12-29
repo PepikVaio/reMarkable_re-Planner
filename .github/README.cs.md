@@ -18,7 +18,7 @@ Pdf kalendář pro reMarkable 1 a 2.
 
 Jedná se o šablonu pro reMarkable ve formátu pdf, kterou lze na přání upravit nebo používat tak jak je zcela zdarma.
 * Pokud budete mít zájem o úpravu, neváhejte mě kontaktovat.
-* Věnujte prosím pozornost licenčním podmínkám, kde se dozvíte více informací.
+* Věnujte prosím pozornost licenčním podmínkám, kde naleznete další informace a také podmínky platby.
 
 Lze použít i na jiných zařízeních
 * Testováno - iPad
