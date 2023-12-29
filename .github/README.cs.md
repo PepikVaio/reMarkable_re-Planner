@@ -57,12 +57,6 @@ Užívejte si plánování :)
 Vytvořte problémy, pokud najdete problém
 
 
-## Autoři
-
-Wajsar Josef
-* Wajsar.Josef@hotmail.com
-
-
 ## Historie verzí
 
 2024
@@ -73,6 +67,12 @@ Wajsar Josef
 
 2023
 * první vydání
+
+
+## Autoři
+
+Wajsar Josef
+* Wajsar.Josef@hotmail.com
 
 
 ## Poděkování
