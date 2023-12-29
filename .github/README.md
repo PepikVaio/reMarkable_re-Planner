@@ -10,7 +10,7 @@
 
 Pdf calendar for reMarkable 1 and 2.
 * version 2024 is now compatible with reMarkable 3.xx.
-
+* no hacks needed
 
 ## Description
 
