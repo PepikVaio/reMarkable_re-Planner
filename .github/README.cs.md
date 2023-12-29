@@ -9,16 +9,16 @@
 
 # re-Planner - Kalendář pro reMarkable a další!
 
-Pdf kalendář pro reMarkable 1 a 2.
-* verze 2024 je nyní kompatibilní s verzí reMarkable 3.xx.
+Pdf kalendář pro reMarkable 1 a 2
+* verze 2024 je nyní kompatibilní s verzí reMarkable 3.xx
 * nejsou potřeba žádné hacky
 
 
 ## Popis
 
-Jedná se o šablonu pro reMarkable ve formátu pdf, kterou lze na přání upravit nebo používat tak jak je zcela zdarma.
-* pokud budete mít zájem o úpravu, neváhejte mě kontaktovat.
-* věnujte prosím pozornost licenčním podmínkám, kde naleznete další informace a také podmínky platby.
+Jedná se o šablonu pro reMarkable ve formátu pdf, kterou lze na přání upravit nebo používat tak jak je zcela zdarma
+* pokud budete mít zájem o úpravu, neváhejte mě kontaktovat
+* věnujte prosím pozornost licenčním podmínkám, kde naleznete další informace a také podmínky platby
 
 Lze použít i na jiných zařízeních
 * testováno - iPad
@@ -29,7 +29,7 @@ Lze použít i na jiných zařízeních
 ## Začínáme
 
 ### Ke stažení
-K dispozici je verze lite, která je zcela zdarma a neobsahuje žádné omezení funkčnosti.
+K dispozici je verze lite, která je zcela zdarma a neobsahuje žádné omezení funkčnosti
 * obsahuje vodoznak
 
 [![download](https://img.shields.io/badge/download-latest_release-slategray)](https://github.com/PepikVaio/reMarkable_re-Planner/releases)
@@ -77,7 +77,7 @@ Wajsar Josef
 
 ## Poděkování
 
-Inspirace, úryvky kódu atd.
+Inspirace, úryvky kódu atd...
 * [readme - vícejazyčné](https://github.com/jonatasemidio/multilanguage-readme-pattern)
 * [readme - ikony](https://www.etsy.com/?ref=lgo)
 * [recalendar](https://github.com/klimeryk/recalendar)
