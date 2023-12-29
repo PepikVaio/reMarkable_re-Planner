@@ -9,18 +9,18 @@
 # re-Planner - Calendar for reMarkable and more!
 
 Pdf calendar for reMarkable 1 and 2.
-* Version 2024 is now compatible with reMarkable 3.xx.
+* version 2024 is now compatible with reMarkable 3.xx.
 
 
 ## Description
 
 This is a template for reMarkable in PDF format that can be modified or used as is completely free of charge.
-* If you are interested in customization, feel free to contact me.
-* Please pay attention to the license terms for further information and payment terms.
+* if you are interested in customization, feel free to contact me.
+* please pay attention to the license terms for further information and payment terms.
 
 Can also be used on other devices
-* Tested - iPad
-* Not tested - Supernote | Kindle Scribe | OnyxBoox
+* tested - iPad
+* not tested - Supernote | Kindle Scribe | OnyxBoox
 
 
 ## Getting Started
@@ -63,13 +63,13 @@ Wajsar Josef
 ## Version history
 
 2024
-* Added 1x new month for the following year (January)
-* Changed icon color
-* Icons with rounded corners
-* Various bug fixes and optimizations
+* added 1x new month for the following year (January)
+* changed icon color
+* icons with rounded corners
+* various bug fixes and optimizations
 
 2023
-* First release
+* first release
 
 
 ## Acknowledgements
