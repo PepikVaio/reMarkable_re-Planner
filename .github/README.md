@@ -54,12 +54,6 @@ Enjoy planning :)
 Create issues if you find a problem
 
 
-## Authors
-
-Wajsar Josef
-* Wajsar.Josef@hotmail.com
-
-
 ## Version history
 
 2024
@@ -70,6 +64,12 @@ Wajsar Josef
 
 2023
 * first release
+
+
+## Authors
+
+Wajsar Josef
+* Wajsar.Josef@hotmail.com
 
 
 ## Acknowledgements
