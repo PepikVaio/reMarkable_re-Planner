@@ -20,10 +20,21 @@ This is a template for reMarkable in PDF format that can be modified or used as 
 
 Can also be used on other devices
 * Tested - iPad
-* Not tested - Supernote, Kindle Scribe, OnyxBoox
+* Not tested - Supernote | Kindle Scribe | OnyxBoox
 
 
 ## Getting Started
+
+### Downloads
+There is a lite version that is completely free and contains no functionality restrictions.
+* contains a watermark
+
+[![download](https://img.shields.io/badge/download-latest_release-slategray)](https://github.com/PepikVaio/reMarkable_re-Planner/releases)
+
+If you are interested in the pro version, which does not include the watermark and adds the ability to fully configure the scheduler, feel free to contact me.
+
+[![en](https://img.shields.io/badge/payment-en-blue.svg)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT.md)
+[![cs](https://img.shields.io/badge/payment-cs-green.svg)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT.cs.md)
 
 ### Addictions
 
@@ -34,7 +45,6 @@ Official program from reMarkable installed on PC or the reMarkable web interface
 ### Installation
 Just upload to reMarkable via the official reMarkable app or web interface
 
-[![download](https://img.shields.io/badge/download-latest_release-slategray)](https://github.com/PepikVaio/reMarkable_re-Planner/releases)
 
 ### Using
 Enjoy planning :)
