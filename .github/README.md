@@ -25,6 +25,12 @@ Can also be used on other devices
 
 ## Getting Started
 
+### Addictions
+
+Official program from reMarkable installed on PC or the reMarkable web interface
+* [Desktop app](https://my.remarkable.com/device/desktop)
+* [Web Interface](https://my.remarkable.com/myfiles)
+
 ### Downloads
 There is a lite version that is completely free and contains no functionality restrictions
 * contains a watermark
@@ -35,12 +41,6 @@ If you are interested in the pro version, which does not include the watermark a
 
 [![en](https://img.shields.io/badge/payment-en-blue.svg)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT.md)
 [![cs](https://img.shields.io/badge/payment-cs-green.svg)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT.cs.md)
-
-### Addictions
-
-Official program from reMarkable installed on PC or the reMarkable web interface
-* [Desktop app](https://my.remarkable.com/device/desktop)
-* [Web Interface](https://my.remarkable.com/myfiles)
 
 ### Installation
 Just upload to reMarkable via the official reMarkable app or web interface
