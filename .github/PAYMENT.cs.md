@@ -7,12 +7,14 @@
 # Podmínky placení
 
 Můžete si zvolit ze 3 kategorií verzí (LITE, PRO, VIP)
-* Je několik verzí, které se dají objednat
 * Každá verze obsahuje vlastní vylepšení a možnosti u pravení
 
-
 ### Přidejte informac o platbě
-* Zpráva pro příjemce: [vaše jméno] - re-Planner [rok]
+Pro lepší dohledatelnost prosím přidejte informace o platbě ve vašem bankovnictví
+* Zpráva pro příjemce:
+```
+[vaše jméno] - re-Planner [rok]
+```
 
 
 ## LITE Verze
