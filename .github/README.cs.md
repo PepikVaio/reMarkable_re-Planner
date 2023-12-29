@@ -28,6 +28,13 @@ Lze použít i na jiných zařízeních
 
 ## Začínáme
 
+### Závislosti
+
+Oficiální program od reMarkable nainstalovaný v PC nebo webové rozhraní reMarkable
+
+* [Desktop app](https://my.remarkable.com/device/desktop)
+* [Webové rozhraní](https://my.remarkable.com/myfiles)
+
 ### Ke stažení
 K dispozici je verze lite, která je zcela zdarma a neobsahuje žádné omezení funkčnosti
 * obsahuje vodoznak
@@ -38,13 +45,6 @@ Pokud budete mít zájem o verzi pro, která neobsahuje vodoznak a přidává mo
 
 [![en](https://img.shields.io/badge/payment-en-blue.svg)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT.md)
 [![cs](https://img.shields.io/badge/payment-cs-green.svg)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT.cs.md)
-
-### Závislosti
-
-Oficiální program od reMarkable nainstalovaný v PC nebo webové rozhraní reMarkable
-
-* [Desktop app](https://my.remarkable.com/device/desktop)
-* [Webové rozhraní](https://my.remarkable.com/myfiles)
 
 ### Instalace
 Stačí nahrát do reMarkable přes oficiální aplikaci reMarkable nebo webové rozhraní
