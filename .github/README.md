@@ -27,10 +27,8 @@ Can also be used on other devices
 
 ### Addictions
 
-Official program from reMarkable installed on PC
+Official program from reMarkable installed on PC or the reMarkable web interface
 * [Desktop app](https://my.remarkable.com/device/desktop)
-
-Or the reMarkable web interface
 * [Web Interface](https://my.remarkable.com/myfiles)
 
 ### Installation
