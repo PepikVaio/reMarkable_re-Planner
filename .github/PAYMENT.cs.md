@@ -11,6 +11,10 @@ Můžete si zvolit ze 3 kategorií verzí (LITE, PRO, VIP)
 * Každá verze obsahuje vlastní vylepšení a možnosti u pravení
 
 
+### Přidejte informac o platbě
+* Zpráva pro příjemce: [vaše jméno] - re-Planner [rok]
+
+
 ## LITE Verze
 
 ### verze 0.0
