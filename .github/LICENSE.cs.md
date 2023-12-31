@@ -16,7 +16,7 @@ Toto dílo je chráněno autorským právem a je licencováno pod licencí Creat
 ## Dodatek k Licenční Smlouvě pro Placenou Verzi
 
 Tento dodatek (dále jen "Dodatek") se vztahuje pouze na uživatele, kteří zakoupili placenou verzi produktu re-Planner (dále jen "Placená Verze")
-* Placená Verze je definována jako verze produktu, za kterou byla provedena platba ve výši 100 – 1.500 Kč dle podmínek pro platbu
+* Placená Verze je definována jako verze produktu, za kterou byla provedena platba dle platebních podmínek.
 * Placená Verze může ale nemusí být identifikována licenčním klíčem nebo jiným identifikátorem
 * Placená Verze neobsahuje vodoznak
 
@@ -34,4 +34,4 @@ Tento dodatek (dále jen "Dodatek") se vztahuje pouze na uživatele, kteří zak
 
 Tímto Dodatkem se mění nebo doplňuje původní Licenční Smlouva pouze pro uživatele, kteří zakoupili Placenou Verzi
 
-**Datum účinnosti tohoto Dodatku: 29/12/2023**
+**Datum účinnosti tohoto Dodatku: 31/12/2023**
