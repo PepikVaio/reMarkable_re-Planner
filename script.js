@@ -1,5 +1,5 @@
 document.getElementById('showQRButton').addEventListener('click', function() {
-    var enteredCode = prompt('Zadejte kód pro zobrazení nižší částky:');
+    var enteredCode = document.getElementById('codeInput').value;
     var correctCode = 'testovyKod';  // Nahraďte skutečným kódem
 
     if (enteredCode === correctCode) {
