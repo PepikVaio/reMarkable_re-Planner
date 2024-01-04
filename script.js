@@ -1,6 +1,6 @@
 document.getElementById('showQRButton').addEventListener('click', function() {
     var enteredCode = document.getElementById('codeInput').value;
-    var correctCode = 'testovyKod';  // Nahraďte skutečným kódem
+    var correctCode = 'testovyKoda';  // Nahraďte skutečným kódem
 
     if (enteredCode === correctCode) {
         document.getElementById('qrCodeContainer').style.display = 'block';
