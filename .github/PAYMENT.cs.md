@@ -6,7 +6,7 @@
 
 # Podmínky placení
 
-Můžete si zvolit ze 3 kategorií verzí (LITE, PRO, VIP)
+Můžete si zvolit ze 3 kategorií verzí (LITE, PRO, VIP*)
 * Každá verze obsahuje vlastní vylepšení a možnosti u pravení
 
 ### Přidejte informac o platbě
