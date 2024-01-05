@@ -40,7 +40,9 @@ For better traceability, please add the payment information in your banking
 
 * *available upon request (available from the end of August)*
 * *you can try it for free for the rest of the year*
-* ![price: free](https://img.shields.io/badge/price:-free-blue)
+* [![price: free](https://img.shields.io/badge/price:-free-blue)](mailto:Wajsar.Josef@hotmail.com?subject=re-Planner%20(promotion%20end%20of%20August)&body=Hello%20Mr.%20Wajsar,%0AI%20am%20taking%20advantage%20of%20the%20promotion%20(available%20from%20the%20end%20of%20August).%0A%0APlease%20send%20me%20the%20re-Planner%20(version%202.0)%20for%20the%20remaining%20period%20of%20the%20year.%0AI%20am%20interested%20in%20the%20version%20for%20[fill%20in%20-%20left-handed,%20right-handed].%0A%0AThank%20you%20very%20much,%20with%20regards,%20[fill%20in].)
+
+
 
 ### version 3.0
 * everything included in previous versions
