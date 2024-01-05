@@ -4,17 +4,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>QR Code Generator</title>
-    <style>
-        #qrCodeContainer {
-            display: none;
-        }
-    </style>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <label for="codeInput">Zadejte kód pro zobrazení nižší částky:</label>
-    <input type="text" id="codeInput" />
+    <input type="password" id="codeInput" />
     <button id="showQRButton">Zobraz QR kód</button>
-    <div id="qrCodeContainer"></div>
+
+    <!-- Vyskakovací okno (modal) -->
+    <div id="myModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div id="qrCodeContainer">
+                <img id="qrCodeImage" src="https://placekitten.com/200/200" alt="Nový QR kód">
+            </div>
+        </div>
+    </div>
 
     <script src="script.js"></script>
 </body>
