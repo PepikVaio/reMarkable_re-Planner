@@ -30,16 +30,14 @@ Pro lepší dohledatelnost prosím přidejte informace o platbě ve vašem banko
 * osdtraňuje vodoznak z kalendáře
 
 [![cena: 100 Kč](https://img.shields.io/badge/cena:-100_Kč-green)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT_Currency/K%C4%8D/100%20K%C4%8D.png)
-[![sleva: 5%](https://img.shields.io/badge/mám_slevový_kód:-_5%25-blue)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT_Currency/K%C4%8D/100%20K%C4%8D.png)
-
-
+[![sleva: 5%](https://img.shields.io/badge/mám_slevový_kód:-_5%25-blue)](https://pepikvaio.github.io/reMarkable_re-Planner/)
 
 ### verze 2.0
 * vše co je zahrnuté v předchozích verzích
 * možnost zvolit verzi pro leváky nebo praváky (nativně je verze pro leváky)
 
 [![cena: 300 Kč](https://img.shields.io/badge/cena:-300_Kč-green)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT_Currency/K%C4%8D/300%20K%C4%8D.png)
-[![sleva: 5%](https://img.shields.io/badge/mám_slevový_kód:-_5%25-blue)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT_Currency/K%C4%8D/100%20K%C4%8D.png)
+[![sleva: 5%](https://img.shields.io/badge/mám_slevový_kód:-_5%25-blue)](https://pepikvaio.github.io/reMarkable_re-Planner/)
 
 
   * *po žádosti o uvolnění (k dispozici od konce srpna)*
