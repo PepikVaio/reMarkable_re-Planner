@@ -82,7 +82,10 @@ For better traceability, please add the payment information in your banking
 
 ## VIP Version
 * everything included in previous versions
-
+* included extra:
+  * any amount
+  * discount promotions
+ 
 ***!Only for selected individuals, as a thank you to those who supported me and ordered the first re-Planner for the year 2023!***
 * *Batelka Honza | Bilý Jakub | Brož František | Dlouhá Marcela Myš | Fiantek Karel | Fojtik Rostislav Natan | Geršl Zdeněk | Grombíř Jakub | Guillot Inès | Hamed |Mohamed | Holec Ludvik | Jindrová Sabina | Klement Jaromír | Kliment Peter | Körner Kevin | Korzec Roman | Koustky Pavel | Kysela Petr | Lamprecht Andrej | Majer Mirek | Němec Václav | Plíhal Jan | Porteš Jiří | Pospíšil Marek Maryl | Šumbera Jan | Trnečka Ivan | Valenta Alda Valy | Venglářová Martina | Vykuk Kluk*
 
