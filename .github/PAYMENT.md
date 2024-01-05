@@ -22,7 +22,7 @@ For better traceability, please add the payment information in your banking
 ### version 0.0
 * includes watermark in the calendar
 
-![Price: free](https://img.shields.io/badge/price:-free-blue)
+[![price: free](https://img.shields.io/badge/price:-free-blue)](https://github.com/PepikVaio/reMarkable_re-Planner/releases)
 
 
 ## PRO Version
