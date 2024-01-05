@@ -30,20 +30,19 @@ Pro lepší dohledatelnost prosím přidejte informace o platbě ve vašem banko
 * osdtraňuje vodoznak z kalendáře
 
 [![cena: 100 Kč](https://img.shields.io/badge/cena:-100_Kč-green)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT_Currency/K%C4%8D/100%20K%C4%8D.png)
-[![sleva: 5%](https://img.shields.io/badge/mám_slevový_kód:-_5%25-blue)](https://pepikvaio.github.io/reMarkable_re-Planner/)
+[![sleva: 5%](https://img.shields.io/badge/mám_slevový_kód:-5%25-blue)](https://pepikvaio.github.io/reMarkable_re-Planner/)
 
 ### verze 2.0
 * vše co je zahrnuté v předchozích verzích
 * možnost zvolit verzi pro leváky nebo praváky (nativně je verze pro leváky)
 
 [![cena: 300 Kč](https://img.shields.io/badge/cena:-300_Kč-green)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT_Currency/K%C4%8D/300%20K%C4%8D.png)
-[![sleva: 5%](https://img.shields.io/badge/mám_slevový_kód:-_5%25-blue)](https://pepikvaio.github.io/reMarkable_re-Planner/)
+[![sleva: 5%](https://img.shields.io/badge/mám_slevový_kód:-5%25-blue)](https://pepikvaio.github.io/reMarkable_re-Planner/)
 
 
   * *po žádosti o uvolnění (k dispozici od konce srpna)*
   * *můžete vyzkoušet po zbytek roku zdarma*
-  * [![cena: zdarma](https://img.shields.io/badge/cena:-zdarma-green)](mailto:Wajsar.Josef@hotmail.com)
-
+  * [![cena: zdarma](https://img.shields.io/badge/cena:-zdarma-green)](mailto:Wajsar.Josef@hotmail.com?subject=re-Planner%20(akce%20konec%20srpna)&body=Dobrý%20den%20pane%20Wajsare,%0Avyužívám%20akci%20od%20konce%20srpna.%0A%0AProsím%20o%20zaslání%20re-Planneru%20(verze%202.0)%20na%20zbývající%20období%20roku.%0AMám%20zájem%20o%20verzi%20pro%20%5Bdoplňte%20-%20leváky,%20praváky%5D.%0A%0AVelice%20děkuji%20s%20pozdravem%20%5Bdoplňte%5D.)
 
 ### verze 3.0
 * vše co je zahrnuté v předchozích verzích
