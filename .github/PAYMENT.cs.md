@@ -42,7 +42,7 @@ Pro lepší dohledatelnost prosím přidejte informace o platbě ve vašem banko
 
   * *po žádosti o uvolnění (k dispozici od konce srpna)*
   * *můžete vyzkoušet po zbytek roku zdarma*
-  * [![cena: zdarma](https://img.shields.io/badge/cena:-zdarma-green)](mailto:Wajsar.Josef@hotmail.com?subject=re-Planner%20(akce%20konec%20srpna)&body=Dobrý%20den%20pane%20Wajsare,%0Avyužívám%20akci%20od%20konce%20srpna.%0A%0AProsím%20o%20zaslání%20re-Planneru%20(verze%202.0)%20na%20zbývající%20období%20roku.%0AMám%20zájem%20o%20verzi%20pro%20%5Bdoplňte%20-%20leváky,%20praváky%5D.%0A%0AVelice%20děkuji%20s%20pozdravem%20%5Bdoplňte%5D.)
+  * [![cena: zdarma](https://img.shields.io/badge/cena:-zdarma-green)](mailto:Wajsar.Josef@hotmail.com?subject=re-Planner%20(akce%20konec%20srpna)&body=Dobrý%20den%20pane%20Wajsare,%0Avyužívám%20akci%20(k%20dispozici%20od%20konce%20srpna).%0A%0AProsím%20o%20zaslání%20re-Planneru%20(verze%202.0)%20na%20zbývající%20období%20roku.%0AMám%20zájem%20o%20verzi%20pro%20%5Bdoplňte%20-%20leváky,%20praváky%5D.%0A%0AVelice%20děkuji%20s%20pozdravem%20%5Bdoplňte%5D.)
 
 ### verze 3.0
 * vše co je zahrnuté v předchozích verzích
@@ -62,7 +62,9 @@ Pro lepší dohledatelnost prosím přidejte informace o platbě ve vašem banko
   * *po žádosti o uvolnění, když si nemůžete re-Planner dovolit (student, samoživitelka, důchodce)*
   * *možnost zvolit aktuální nebo následující rok (dle výběru)*
   * ***možné využít pouze 1x na osobu***
-  * ![cena: zdarma](https://img.shields.io/badge/cena:-zdarma-green)
+  * [![cena: zdarma](https://img.shields.io/badge/cena:-zdarma-green)](mailto:Wajsar.Josef@hotmail.com?subject=re-Planner%20(akce%20student,%20samoživitelka,%20důchodce)&body=Dobrý%20den%20pane%20Wajsare,%0Avyužívám%20akci%20(student,%20samoživitelka,%20důchodce).%0A%0AProsím%20o%20kontaktování,%20abychom%20se%20mohli%20domluvit%20na%20úpravách.%0AAno,%20vím,%20že%20akce%20se%20dá%20využít%20pouze%201x%20na%20osobu.%0A%0AVelice%20děkuji%20s%20pozdravem%20%5Bdoplňte%5D.)
+
+
 
 ### verze 5.0
 * vše co je zahrnuté v předchozích verzích
