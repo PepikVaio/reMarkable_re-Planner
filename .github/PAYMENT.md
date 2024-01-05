@@ -62,7 +62,10 @@ For better traceability, please add the payment information in your banking
 * *avilable upon request, if you cannot afford re-Planner (student, single parent, retiree)*
 * *option to choose the current or next year (as selected)*
 * ***can be used only once per person***
-* ![price: free](https://img.shields.io/badge/price:-free-blue)
+* [![price: free](https://img.shields.io/badge/price:-free-blue)](mailto:Wajsar.Josef@hotmail.com?subject=re-Planner%20(promotion%20for%20students,%20single%20parents,%20seniors)&body=Hello%20Mr.%20Wajsar,%0AI%20am%20taking%20advantage%20of%20the%20promotion%20(for%20students,%20single%20parents,%20seniors).%0A%0APlease%20contact%20me%20so%20that%20we%20can%20discuss%20the%20adjustments.%0AYes,%20I%20now%20that%20the%20promotion%20can%20only%20be%20used%20once%20per%20person.%0A%0AThank%20you%20very%20much,%20with%20regards,%20[fill%20in].)
+
+
+
 
 ### version 5.0
 * everything included in previous versions
