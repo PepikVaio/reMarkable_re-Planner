@@ -5,7 +5,7 @@
 
 # Payment Terms
 
-You can choose from 3 versions (LITE, PRO, VIP)
+You can choose from 3 versions (LITE, PRO, VIP*)
 * Each version includes specific enhancements and customization options
 
 ### Add payment information
