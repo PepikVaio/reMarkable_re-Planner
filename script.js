@@ -1,6 +1,8 @@
 document.getElementById('showQRButton').addEventListener('click', function() {
     var enteredCode = document.getElementById('codeInput').value;
-    var correctCode = 'testovyKod';  // Nahraďte skutečným kódem
+    
+    // Nahraďte následující řádek načtením citlivé informace ze tajemství
+    var correctCode = process.env.MY_SECRET_CODE;  // Nahraďte názvem vašeho tajemství
 
     if (enteredCode === correctCode) {
         // Otevření vyskakovacího okna
