@@ -23,6 +23,6 @@ jobs:
 
       - name: Run script
         env:
-          ENTERED_CODE: "someValue"  # Hodnota, kterou budete moci přenést do skriptu
-          MY_CODE: ${{ secrets.MY_CODE }}  # GitHub Secret
-        run: node script.js
+          ENTERED_CODE: "someValue"
+          MY_SECRET_CODE: ${{ secrets.MY_SECRET_CODE }}
+        run: node scripts/script.js
