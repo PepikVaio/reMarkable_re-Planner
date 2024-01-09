@@ -21,9 +21,9 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: List files in scripts directory
-        run: ls scripts
-
+      - name: Set secret as an environment variable
+        run: echo "MY_SECRET_CODE=${{ secrets.MY_SECRET_CODE }}" >> $GITHUB_ENV
+        
       - name: Run script
         env:
           ENTERED_CODE: "someValue"
