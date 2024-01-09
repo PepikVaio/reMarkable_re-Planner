@@ -23,9 +23,6 @@ jobs:
 
       - name: Set secret as an environment variable
         run: echo "MY_SECRET_CODE=${{ secrets.MY_SECRET_CODE }}" >> $GITHUB_ENV
-        
+
       - name: Run script
-        env:
-          ENTERED_CODE: "someValue"
-          MY_SECRET_CODE: ${{ secrets.MY_SECRET_CODE }}
-        run: node $GITHUB_WORKSPACE/scripts/script.js
+        run: node scripts/script.js
