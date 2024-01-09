@@ -1,0 +1,33 @@
+name: Build and Deploy
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '14'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run script
+        run: |
+          var enteredCode = "someValue";
+          var correctCode = "${{ secrets.MY_CODE }}";
+          if (enteredCode === correctCode) {
+            echo "Code is correct!";
+          } else {
+            echo "Incorrect code!";
+            exit 1;
+          }
