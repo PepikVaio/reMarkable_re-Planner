@@ -1,3 +1,9 @@
+// Vložte tuto část na začátek vašeho kódu
+const script = document.createElement('script');
+script.src = 'https://raw.githubusercontent.com/user/repo/main/secret.js';  // Nahraďte skutečnou cestou k souboru
+document.head.appendChild(script);
+
+
 document.getElementById('showQRButton').addEventListener('click', function() {
     var enteredCode = document.getElementById('codeInput').value;
     var correctCode = 'testovyKod';  // Nahraďte skutečným kódem
