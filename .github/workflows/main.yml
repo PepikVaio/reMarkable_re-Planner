@@ -25,5 +25,6 @@ jobs:
         run: npm run deploy
         env:
           MY_SECRET_CODE: ${{ secrets.MY_SECRET_CODE }}
-          NODE_OPTIONS: '--require ./setenv.js'  # Přidejte tuto řádku
 
+      - name: Set secret in HTML file
+        run: echo "window.MY_SECRET_CODE='${{ secrets.MY_SECRET_CODE }}';" > ./scripts/setenv.js
