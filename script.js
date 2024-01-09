@@ -1,6 +1,6 @@
 document.getElementById('showQRButton').addEventListener('click', function() {
     var enteredCode = document.getElementById('codeInput').value;
-    var correctCode = 'kocka';  // Nahraďte skutečným kódem
+    var correctCode = '{{ secrets.MY_SECRET_CODE }}';  // Získání hodnoty z GitHub Secret
 
     if (enteredCode === correctCode) {
         // Otevření vyskakovacího okna
