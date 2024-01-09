@@ -1,0 +1,15 @@
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Use secret
+        run: echo "::set-env name=SECRET_CODE::${{ secrets.MY_SECRET_CODE }}"
+       
+      - name: Display secret
+        run: echo $SECRET_CODE
+
+      # Další kroky vašeho pracovního postupu...
