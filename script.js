@@ -6,7 +6,7 @@ document.head.appendChild(script);
 
 document.getElementById('showQRButton').addEventListener('click', function() {
     var enteredCode = document.getElementById('codeInput').value;
-    var correctCode = 'testovyKod';  // Nahraďte skutečným kódem
+    var correctCode = 'kocka';  // Nahraďte skutečným kódem
 
     if (enteredCode === correctCode) {
         // Otevření vyskakovacího okna
