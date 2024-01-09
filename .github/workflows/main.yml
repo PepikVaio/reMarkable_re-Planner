@@ -18,7 +18,7 @@ jobs:
         run: npm install
 
       - name: Create secret file
-        run: echo "const secretCode = '${{ secrets.MY_SECRET_CODE }}';" > secret.js
+        run: echo "const secretCode = '${{ kocka }}';" > secret.js
 
       - name: Upload secret file as artifact
         uses: actions/upload-artifact@v2
