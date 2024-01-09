@@ -3,10 +3,9 @@ const script = document.createElement('script');
 script.src = 'https://raw.githubusercontent.com/user/repo/main/secret.js';  // Nahraďte skutečnou cestou k souboru
 document.head.appendChild(script);
 
-
+// Váš původní kód zůstane nezměněný
 document.getElementById('showQRButton').addEventListener('click', function() {
     var enteredCode = document.getElementById('codeInput').value;
-    var correctCode = 'kocka';  // Nahraďte skutečným kódem
 
     if (enteredCode === correctCode) {
         // Otevření vyskakovacího okna
