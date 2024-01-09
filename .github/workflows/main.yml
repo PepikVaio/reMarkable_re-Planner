@@ -22,12 +22,7 @@ jobs:
         run: npm install
 
       - name: Run script
-        run: |
-          var enteredCode = "someValue";
-          var correctCode = "${{ secrets.MY_CODE }}";
-          if (enteredCode === correctCode) {
-            echo "Code is correct!";
-          } else {
-            echo "Incorrect code!";
-            exit 1;
-          }
+        env:
+          ENTERED_CODE: "someValue"  # Hodnota, kterou budete moci přenést do skriptu
+          MY_CODE: ${{ secrets.MY_CODE }}  # GitHub Secret
+        run: node script.js
