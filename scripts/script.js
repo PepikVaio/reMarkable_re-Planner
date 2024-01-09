@@ -1,10 +1,8 @@
-// Kontrola, zda je objekt document definován (pracujeme ve webovém prostředí)
 if (typeof document !== 'undefined') {
     // Kód pracující s DOMem
     document.getElementById('showQRButton').addEventListener('click', function() {
         var enteredCode = document.getElementById('codeInput').value;
-        //var correctCode = 'kocka';  // Nahraďte skutečným kódem
-        var correctCode = process.env.MY_SECRET_CODE;  // Použití proměnné prostředí
+        var correctCode = window.MY_SECRET_CODE || '';  // Použití globální proměnné
 
         if (enteredCode === correctCode) {
             // Otevření vyskakovacího okna

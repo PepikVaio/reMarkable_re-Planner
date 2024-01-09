@@ -13,7 +13,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Setup Node.js
+      - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '14'
@@ -21,8 +21,9 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Set secret as an environment variable
-        run: echo "MY_SECRET_CODE=${{ secrets.MY_SECRET_CODE }}" >> $GITHUB_ENV
-
       - name: Run script
-        run: node scripts/script.js
+        run: npm run deploy
+        env:
+          MY_SECRET_CODE: ${{ secrets.MY_SECRET_CODE }}
+          NODE_OPTIONS: '--require ./setenv.js'  # Přidejte tuto řádku
+
