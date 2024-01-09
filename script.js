@@ -5,11 +5,8 @@ document.getElementById('showQRButton').addEventListener('click', function() {
     if (enteredCode === correctCode) {
         // Otevření vyskakovacího okna
         document.getElementById('myModal').style.display = 'block';
-        console.log('Code is correct!');
     } else {
         alert('Nesprávný kód. Zkuste to znovu.');
-        console.error('Incorrect code!');
-        process.exit(1); // Ukončení s chybou
     }
 });
 
