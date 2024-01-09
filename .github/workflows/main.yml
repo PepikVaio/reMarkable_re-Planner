@@ -28,4 +28,4 @@ jobs:
         env:
           ENTERED_CODE: "someValue"
           MY_SECRET_CODE: ${{ secrets.MY_SECRET_CODE }}
-        run: node $GITHUB_WORKSPACE/script.js
+        run: node $GITHUB_WORKSPACE/scripts/script.js
