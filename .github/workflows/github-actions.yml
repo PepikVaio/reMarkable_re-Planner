@@ -1,0 +1,5 @@
+name : GitHub actions test
+on : [push]
+jobs :
+	test :
+		run : echo "test"
