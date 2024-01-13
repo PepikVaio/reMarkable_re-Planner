@@ -1,5 +1,7 @@
-// Získání citlivé informace z proměnných prostředí
-const secretPassword = process.env.MOJE_TAJNE_HESLO;
+function showPassword() {
+  // Zde by bylo připojení k proměnné prostředí nebo jiného zabezpečeného místa, kde je uloženo heslo
+  const secretPassword = process.env.MOJE_TAJNE_HESLO;
 
-// Dále můžete použít tuto proměnnou v kódu
-console.log(secretPassword);
+  // Vypsání hesla na obrazovku (pouze pro demonstrační účely)
+  document.getElementById('passwordContainer').innerText = `Heslo: ${secretPassword}`;
+}
