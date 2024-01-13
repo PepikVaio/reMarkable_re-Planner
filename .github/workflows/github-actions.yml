@@ -1,15 +1,17 @@
-name : GitHub actions test
-on : [push]
-jobs :
-	test :
-		env :
-			SECRET_ENV_VARIABLE : test
-		steps :
-			- name : Download Onboardbase
-				run : wget https://onboardbase-cli.fra1.digitaloceanspaces.com/apt/onbardbase.deb
-			- name : Install Onboardbase
-				run sudo dpkg -i onboardbase.deb
-			- name : Setup Onboardbase
-				run : onboardbase config:set --token "${{secrets.ONBOARDBASE_TOKEN}}"
-			- name : Run project
-				run : onboardbase build -c "printenv SECRET_ENV_VARIABLE" --project "github actions test" -e "development"
+name: Publish Documentation
+
+on:
+  push:
+    branches:
+    - master
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          VERSION=$(date +%s)
+          docker login -u ethomson -p ${{ secrets.SECRET_KEY }}
+          docker build . --file Dockerfile --tag ethomson/app:${VERSION}
+          docker push ethomson/app:${VERSION}
