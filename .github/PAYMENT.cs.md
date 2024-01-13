@@ -1,4 +1,5 @@
-[![cena: zdarma](https://img.shields.io/badge/cena:-zdarma-green)](javascript:void(window.open('mailto:Wajsar.Josef@hotmail.com?subject=Subject%20of%20the%20email&body=Body%20of%20the%20email'), window.open('https://www.example.com')))
+[![cena: zdarma](https://img.shields.io/badge/cena:-zdarma-green)](https://www.example.com)
+
 
 
 
