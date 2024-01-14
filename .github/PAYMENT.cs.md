@@ -1,9 +1,3 @@
-[![cena: zdarma](https://img.shields.io/badge/cena:-zdarma-green)](https://www.example.com)
-
-
-
-
-
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT.md)
 [![cs](https://img.shields.io/badge/lang-cs-springgreen.svg)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT.cs.md)
 [![I accept: PayPal](https://img.shields.io/badge/accept-PayPal-blue)](http://paypal.me/josefwajsar)
