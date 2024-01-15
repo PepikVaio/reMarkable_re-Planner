@@ -30,7 +30,7 @@ Pro lepší dohledatelnost prosím přidejte informace o platbě ve vašem banko
 * osdtraňuje vodoznak z kalendáře
 
 [![cena: 100 Kč](https://img.shields.io/badge/cena:-100_Kč-green)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT_Currency/K%C4%8D/100%20K%C4%8D.png)
-[![sleva: 5%](https://img.shields.io/badge/mám_slevový_kód:-5%25-blue)](https://pepikvaio.github.io/reMarkable_re-Planner/)
+[![sleva: 5%](https://img.shields.io/badge/mám_slevový_kód:-5%25-blue)](https://www.etsy.com/listing/1643977396/re-planner-pro-verze-10?click_key=32b65a2bf3daa1b778be9c0ebd05baf96c0e3dee%3A1643977396&click_sum=61e443a2&ref=shop_home_active_2)
 
 ### verze 2.0
 * vše co je zahrnuté v předchozích verzích
