@@ -37,7 +37,7 @@ Pro lepší dohledatelnost prosím přidejte informace o platbě ve vašem banko
 * možnost zvolit verzi pro leváky nebo praváky (nativně je verze pro leváky)
 
 [![cena: 300 Kč](https://img.shields.io/badge/cena:-300_Kč-green)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT_Currency/K%C4%8D/300%20K%C4%8D.png)
-[![sleva: 5%](https://img.shields.io/badge/mám_slevový_kód:-5%25-blue)](https://pepikvaio.github.io/reMarkable_re-Planner/)
+[![sleva: 5%](https://img.shields.io/badge/mám_slevový_kód:-5%25-blue)](https://www.google.com/search?sca_esv=598520719&rlz=1C5CHFA_enCZ982CZ982&sxsrf=ACQVn0_P7kagm08srVNbBl98urCxbNWLFQ:1705307992179&q=300+cz+to+eur&spell=1&sa=X&ved=2ahUKEwjJwOyo_96DAxVghf0HHdJtCD4QBSgAegQIBxAC&biw=1787&bih=1012&dpr=1)
 
 
   * *po žádosti o uvolnění (k dispozici od konce srpna)*
