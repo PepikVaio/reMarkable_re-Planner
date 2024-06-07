@@ -1,5 +1,5 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT.md)
-[![cs](https://img.shields.io/badge/lang-cs-springgreen.svg)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT.cs.md)
+[![cs](https://img.shields.io/badge/lang-cs-springgreen.svg)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.language_cs/PAYMENT.cs.md)
 [![I accept: PayPal](https://img.shields.io/badge/accept-PayPal-blue)](http://paypal.me/josefwajsar)
 [![I accept: AirBank](https://img.shields.io/badge/accept-AirBankBank-green)](https://www.airbank.cz/)
 
