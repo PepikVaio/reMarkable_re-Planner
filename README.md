@@ -1,4 +1,4 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PepikVaio/reMarkable_re-Planner/tree/main)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PepikVaio/reMarkable_re-Planner)
 [![cs](https://img.shields.io/badge/lang-cs-springgreen.svg)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.language_cs/README.cs.md)
 [![supported: rM1](https://img.shields.io/badge/rM1-supported-green)](https://remarkable.com/store/remarkable)
 [![supported: rM2](https://img.shields.io/badge/rM2-supported-green)](https://remarkable.com/store/remarkable-2)
@@ -39,8 +39,8 @@ There is a lite version that is completely free and contains no functionality re
 
 If you are interested in the pro version, which does not include the watermark and adds the ability to fully configure the scheduler, feel free to contact me
 
-[![en](https://img.shields.io/badge/payment-en-blue.svg)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT.md)
-[![cs](https://img.shields.io/badge/payment-cs-green.svg)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.github/PAYMENT.cs.md)
+[![en](https://img.shields.io/badge/payment-en-blue.svg)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/PAYMENT.md)
+[![cs](https://img.shields.io/badge/payment-cs-green.svg)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.language_cs/PAYMENT.cs.md)
 
 ### Installation
 Just upload to reMarkable via the official reMarkable app or web interface
