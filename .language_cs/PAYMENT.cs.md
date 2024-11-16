@@ -35,7 +35,12 @@ Pro lepší dohledatelnost prosím přidejte informace o platbě ve vašem banko
   * *po žádosti o uvolnění, když si nemůžete re-Planner dovolit (student, samoživitelka, důchodce)*
   * *možnost zvolit aktuální nebo následující rok (dle výběru)*
   * ***možné využít pouze 1x na osobu***
-  * [![cena: zdarma](https://img.shields.io/badge/cena:-zdarma-green)](mailto:Wajsar.Josef@hotmail.com?subject=re-Planner%20(akce%20student,%20samoživitelka,%20důchodce)&body=Dobrý%20den%20pane%20Wajsare,%0Avyužívám%20akci%20(student,%20samoživitelka,%20důchodce).%0A%0AProsím%20o%20kontaktování,%20abychom%20se%20mohli%20domluvit%20na%20úpravách.%0AAno,%20vím,%20že%20akce%20se%20dá%20využít%20pouze%201x%20na%20osobu.%0A%0AVelice%20děkuji%20s%20pozdravem%20%5Bdoplňte%5D.)
+  * [![cena: zdarma](https://img.shields.io/badge/cena:-zdarma-green)](mailto:Wajsar.Josef@hotmail.com?subject=re-Planner%20(akce%20student,%20samoživitelka,%20důchodce)&body=Dobrý den pane Wajsare,
+využívám Vámi nabízenou akci (student, samoživitelka, důchodce) a tímto bych Vás chtěl(a) požádat o zaslání re-Planneru na aktuální rok.
+Jsem si vědom(a), že akci lze využít pouze jednou na osobu.
+Velice děkuji za Vaši ochotu a vstřícnost.
+S pozdravem,
+[Vaše jméno])
 
   * *po žádosti o uvolnění (k dispozici od konce srpna)*
   * *můžete vyzkoušet po zbytek roku zdarma*
