@@ -55,6 +55,7 @@ Pro lepší dohledatelnost prosím přidejte informace o platbě ve vašem banko
 ### verze 3.0
 * vše co je zahrnuté v předchozích verzích
 * zapsání významných dnů (narozeniny, svátky, svatba, olsava, atd...)
+
 [![cena: 750 Kč](https://img.shields.io/badge/cena:-750_Kč-green)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.payment/K%C4%8D/750%20K%C4%8D.png)
 
 
