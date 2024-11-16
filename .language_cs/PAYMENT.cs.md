@@ -35,7 +35,7 @@ Pro lepší dohledatelnost prosím přidejte informace o platbě ve vašem banko
   * *po žádosti o uvolnění, když si nemůžete re-Planner dovolit (student, samoživitelka, důchodce)*
   * *možnost zvolit aktuální nebo následující rok (dle výběru)*
   * ***možné využít pouze 1x na osobu***
-  * [![cena: zdarma](https://img.shields.io/badge/cena:-zdarma-green)](mailto:Wajsar.Josef@hotmail.com?subject=re-Planner%20(akce%20student,%20samoživitelka,%20důchodce)&body=Dobrý%20den%20pane%20Wajsare,%0A%0Avyužívám%20Vámi%20nabízenou%20akci%20(student,%20samoživitelka,%20důchodce)%20a%20tímto%20bych%20Vás%20chtěl(a)%20požádat%20o%20zaslání%20re-Planneru%20na%20aktuální%20rok.%0A%0AJsem%20si%20vědom(a),%20že%20akci%20lze%20využít%20pouze%20jednou%20na%20osobu.%0A%0AVelice%20děkuji%20za%20Vaši%20ochotu%20a%20vstřícnost.%0A%0AS%20pozdravem,%0A%5BDoplňte%5D%0A)
+  * [![cena: zdarma](https://img.shields.io/badge/cena:-zdarma-green)](mailto:Wajsar.Josef@hotmail.com?subject=re-Planner%20(akce%20student,%20samoživitelka,%20důchodce)&body=Dobrý%20den%20pane%20Wajsare,%0Avyužívám%20Vámi%20nabízenou%20akci%20(student,%20samoživitelka,%20důchodce)%20a%20tímto%20bych%20Vás%20chtěl(a)%20požádat%20o%20zaslání%20re-Planneru%20na%20aktuální%20rok.%0AJsem%20si%20vědom(a),%20že%20akci%20lze%20využít%20pouze%201x%20na%20osobu.%0A%0AVelice%20děkuji%20za%20Vaši%20ochotu%20a%20vstřícnost.%0A%0AS%20pozdravem,%0A%5BDoplňte%5D%0A)
 
 
 
