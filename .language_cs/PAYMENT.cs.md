@@ -35,7 +35,7 @@ Pro lepší dohledatelnost prosím přidejte informace o platbě ve vašem banko
   * *po žádosti o uvolnění, když si nemůžete re-Planner dovolit (student, samoživitelka, důchodce)*
   * *možnost zvolit aktuální nebo následující rok (dle výběru)*
   * ***možné využít pouze 1x na osobu***
-  * [![cena: zdarma](https://img.shields.io/badge/cena:-zdarma-green)](mailto:Wajsar.Josef@hotmail.com?subject=re-Planner%20(akce%20student,%20samoživitelka,%20důchodce)&body=Dobrý den.)
+  * [![cena: zdarma](https://img.shields.io/badge/cena:-zdarma-green)](mailto:Wajsar.Josef@hotmail.com?subject=re-Planner%20(akce%20student,%20samoživitelka,%20důchodce)&body=Dobrý%20den.)
 
   * *po žádosti o uvolnění (k dispozici od konce srpna)*
   * *můžete vyzkoušet po zbytek roku zdarma*
