@@ -64,7 +64,13 @@ For better traceability, please add the payment information in your banking
 * *avilable upon request, if you cannot afford re-Planner (student, single parent, retiree)*
 * *option to choose the current or next year (as selected)*
 * ***can be used only once per person***
-* [![price: free](https://img.shields.io/badge/price:-free-blue)](mailto:Wajsar.Josef@hotmail.com?subject=re-Planner%20(promotion%20for%20students,%20single%20parents,%20seniors)&body=Hello%20Mr.%20Wajsar,%0AI%20am%20taking%20advantage%20of%20the%20promotion%20(for%20students,%20single%20parents,%20seniors).%0A%0APlease%20contact%20me%20so%20that%20we%20can%20discuss%20the%20adjustments.%0AYes,%20I%20now%20that%20the%20promotion%20can%20only%20be%20used%20once%20per%20person.%0A%0AThank%20you%20very%20much,%20with%20regards,%20[fill%20in].)
+* [![price: free](https://img.shields.io/badge/price:-free-blue)](mailto:Wajsar.Josef@hotmail.com?subject=Request%20for%20sending%20re-Planner%20(end%20of%20August%20offer)&body=Dear%20Mr.%20Wajsar,%0AI%20would%20like%20to%20take%20advantage%20of%20the%20offer%20you%20are%20providing%20(available%20since%20the%20end%20of%20August)%20and%20kindly%20ask%20you%20to%20send%20me%20the%20re-Planner%20for%20the%20remaining%20period%20of%20the%20year.%0A%0AI%20greatly%20appreciate%20your%20kindness%20and%20cooperation,%20and%20I%20thank%20you%20in%20advance%20for%20processing%20my%20request.%0A%0ASincerely,%0A%5BYour%20Name%5D%0A)
+
+
+
+
+
+
 
 
 
