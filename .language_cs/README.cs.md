@@ -60,6 +60,9 @@ Vytvořte problémy, pokud najdete problém
 
 ## Historie verzí
 
+2025
+* nic nového - pracuji na kompletním předělání a implementaci uživatelského nastavení
+
 2024
 * přidaný 1x nový měsíc pro následující rok (leden)
 * změna barvy ikon
