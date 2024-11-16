@@ -61,7 +61,9 @@ Vytvořte problémy, pokud najdete problém
 ## Historie verzí
 
 2025
-* nic nového - pracuji na kompletním předělání a implementaci uživatelského nastavení
+* upravené číslování PRO verzí
+* verze 1.0 může být pro leváky i praváky a také zdarma za sepsaných podmínek
+* pracuji na implementaci uživatelského nastavení
 
 2024
 * přidaný 1x nový měsíc pro následující rok (leden)
