@@ -58,7 +58,9 @@ Create issues if you find a problem
 ## Version history
 
 2025
-* nothing new - I'm working on a complete redesign and implementation of user settings
+* adjusted numbering of PRO versions
+* version 1.0 can be for left-handed and right-handed users and also free under written conditions
+* I am working on implementing user settings
 
 2024
 * added 1x new month for the following year (January)
