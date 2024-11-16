@@ -34,6 +34,7 @@ Official program from reMarkable installed on PC or the reMarkable web interface
 ### Downloads
 There is a lite version that is completely free and contains no functionality restrictions
 * contains a watermark
+* features that are not available in the LITE version are also not available in the PRO or VIP versions!!!
 
 [![download](https://img.shields.io/badge/download-latest_release-slategray)](https://github.com/PepikVaio/reMarkable_re-Planner/releases)
 
