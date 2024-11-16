@@ -35,7 +35,7 @@ Pro lepší dohledatelnost prosím přidejte informace o platbě ve vašem banko
   * *po žádosti o uvolnění, když si nemůžete re-Planner dovolit (student, samoživitelka, důchodce)*
   * *možnost zvolit aktuální nebo následující rok (dle výběru)*
   * ***možné využít pouze 1x na osobu***
-  * [![cena: zdarma](https://img.shields.io/badge/cena:-zdarma-green)](mailto:Wajsar.Josef@hotmail.com?subject=re-Planner%20(akce%20student,%20samoživitelka,%20důchodce)&body=Vážený%20pane%20Wajsare,%0Arád(a)%20bych%20využil(a)%20Vámi%20nabízenou%20akci%20(student,%20samoživitelka,%20důchodce)%20a%20tímto%20Vás%20zdvořile%20žádám%20o%20zaslání%20re-Planneru%20na%20aktuální%20rok.%0A%0AJsem%20si%20vědom(a),%20že%20tato%20akce%20je%20omezena%20na%20jedno%20využití%20na%20osobu.%0AVelice%20si%20vážím%20Vaší%20ochoty%20a%20vstřícnosti%20a%20předem%20děkuji%20za%20vyřízení%20mé%20žádosti.%0A%0AS%20úctou,%0A%5BVaše%20jméno%5D%0A)
+  * [![cena: zdarma](https://img.shields.io/badge/cena:-zdarma-green)](mailto:Wajsar.Josef@hotmail.com?subject=Žádost%20o%20zaslání%20re-Planneru%20(akce%20student,%20samoživitelka,%20důchodce)&body=Vážený%20pane%20Wajsare,%0Arád(a)%20bych%20využil(a)%20Vámi%20nabízenou%20akci%20(student,%20samoživitelka,%20důchodce)%20a%20tímto%20Vás%20zdvořile%20žádám%20o%20zaslání%20re-Planneru%20na%20aktuální%20rok.%0A%0AJsem%20si%20vědom(a),%20že%20tato%20akce%20je%20omezena%20na%20jedno%20využití%20na%20osobu.%0AVelice%20si%20vážím%20Vaší%20ochoty%20a%20vstřícnosti%20a%20předem%20děkuji%20za%20vyřízení%20mé%20žádosti.%0A%0AS%20úctou,%0A%5BVaše%20jméno%5D%0A)
 
 
 
@@ -43,7 +43,18 @@ Pro lepší dohledatelnost prosím přidejte informace o platbě ve vašem banko
 
   * *po žádosti o uvolnění (k dispozici od konce srpna)*
   * *můžete vyzkoušet po zbytek roku zdarma*
-  * [![cena: zdarma](https://img.shields.io/badge/cena:-zdarma-green)](mailto:Wajsar.Josef@hotmail.com?subject=re-Planner%20(akce%20konec%20srpna)&body=Dobrý%20den%20pane%20Wajsare,%0Avyužívám%20akci%20(k%20dispozici%20od%20konce%20srpna).%0A%0AProsím%20o%20zaslání%20re-Planneru%20(verze%202.0)%20na%20zbývající%20období%20roku.%0AMám%20zájem%20o%20verzi%20pro%20%5Bdoplňte%20-%20leváky,%20praváky%5D.%0A%0AVelice%20děkuji%20s%20pozdravem%20%5Bdoplňte%5D.)
+  * [![cena: zdarma](https://img.shields.io/badge/cena:-zdarma-green)](mailto:Wajsar.Josef@hotmail.com?subject=Žádost%20o%20zaslání%20re-Planneru%20(akce%20konec%20srpna)&body=Vážený%20pane%20Wajsare,%0Arád(a)%20bych%20využil(a)%20Vámi%20nabízenou%20akci%20(k%20dispozici%20od%20konce%20srpna)%20a%20tímto%20Vás%20zdvořile%20žádám%20o%20zaslání%20re-Planneru%20na%20zbývající%20období%20roku.%0A%0AVelice%20si%20vážím%20Vaší%20ochoty%20a%20vstřícnosti%20a%20předem%20děkuji%20za%20vyřízení%20mé%20žádosti.%0A%0AS%20úctou,%0A%5BVaše%20jméno%5D%0A)
+
+
+
+
+
+
+
+
+
+
+
 
 ### verze 2.0
 * vše co je zahrnuté v předchozích verzích
