@@ -37,9 +37,8 @@ Oficiální program od reMarkable nainstalovaný v PC nebo webové rozhraní reM
 
 ### Ke stažení
 K dispozici je verze lite, která je zcela zdarma a neobsahuje žádné omezení funkčnosti
-
-Funkce, které nejsou dostupné ve verzi LITE nejsou dostupné ani ve verzi PRO nebo VIP
 * obsahuje vodoznak
+* funkce, které nejsou dostupné ve verzi LITE nejsou dostupné ani ve verzi PRO nebo VIP
 
 [![download](https://img.shields.io/badge/download-latest_release-slategray)](https://github.com/PepikVaio/reMarkable_re-Planner/releases)
 
