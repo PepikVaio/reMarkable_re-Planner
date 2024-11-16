@@ -40,7 +40,9 @@ For better traceability, please add the payment information in your banking
 
 * *available upon request (available from the end of August)*
 * *you can try it for free for the rest of the year*
-* [![price: free](https://img.shields.io/badge/price:-free-blue)](mailto:Wajsar.Josef@hotmail.com?subject=re-Planner%20(promotion%20end%20of%20August)&body=Hello%20Mr.%20Wajsar,%0AI%20am%20taking%20advantage%20of%20the%20promotion%20(available%20from%20the%20end%20of%20August).%0A%0APlease%20send%20me%20the%20re-Planner%20(version%202.0)%20for%20the%20remaining%20period%20of%20the%20year.%0AI%20am%20interested%20in%20the%20version%20for%20[fill%20in%20-%20left-handed,%20right-handed].%0A%0AThank%20you%20very%20much,%20with%20regards,%20[fill%20in].)
+* [![price: free](https://img.shields.io/badge/price:-free-blue)](mailto:Wajsar.Josef@hotmail.com?subject=Request%20for%20sending%20re-Planner%20(student,%20single%20parent,%20retiree%20offer)&body=Dear%20Mr.%20Wajsar,%0A%0AI%20would%20like%20to%20take%20advantage%20of%20the%20offer%20you%20are%20providing%20(student,%20single%20parent,%20retiree)%20and%20kindly%20ask%20you%20to%20send%20me%20the%20re-Planner%20for%20the%20current%20year.%0A%0AI%20understand%20that%20this%20offer%20can%20be%20used%20only%20once%20per%20person.%0AI%20greatly%20appreciate%20your%20kindness%20and%20cooperation,%20and%20I%20thank%20you%20in%20advance%20for%20processing%20my%20request.%0A%0ASincerely,%0A%5BYour%20Name%5D%0A)
+
+
 
 
 
