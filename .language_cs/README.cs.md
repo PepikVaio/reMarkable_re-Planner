@@ -10,7 +10,7 @@
 # re-Planner - Kalendář pro reMarkable a další!
 
 Pdf kalendář pro reMarkable 1 a 2
-* verze 2024 je nyní kompatibilní s verzí reMarkable 3.xx
+* od roku 2024 je kompatibilní s verzí reMarkable fw 3.xx
 * nejsou potřeba žádné hacky
 
 
