@@ -61,7 +61,7 @@ Vytvořte problémy, pokud najdete problém
 ## Historie verzí
 
 2026
-* vyrobeno předčasně na přání klienta, budu dále upravovat
+* vytvořené předčasně na přání klienta, budu dále upravovat
 
 2025
 * upravené číslování PRO verzí

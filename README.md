@@ -58,7 +58,7 @@ Create issues if you find a problem
 ## Version history
 
 2026
-* made prematurely at the request of the client, I will continue to edit
+* created prematurely at the request of the client, I will edit further
 
 2025
 * adjusted numbering of PRO versions
