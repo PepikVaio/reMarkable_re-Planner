@@ -60,9 +60,13 @@ Vytvořte problémy, pokud najdete problém
 
 ## Historie verzí
 
+2026
+* vyrobeno předčasně na přání klienta, budu dále upravovat
+
 2025
 * upravené číslování PRO verzí
 * verze 1.0 může být pro leváky i praváky a také zdarma za sepsaných podmínek
+* Pro verze 1.0 na etsy.com
 * pracuji na implementaci uživatelského nastavení
 
 2024

@@ -57,9 +57,13 @@ Create issues if you find a problem
 
 ## Version history
 
+2026
+* made prematurely at the request of the client, I will continue to edit
+
 2025
 * adjusted numbering of PRO versions
 * version 1.0 can be for left-handed and right-handed users and also free under written conditions
+* Pro version 1.0 on etsy.com
 * I am working on implementing user settings
 
 2024
