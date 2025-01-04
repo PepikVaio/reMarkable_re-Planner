@@ -18,8 +18,8 @@ This is a template for reMarkable 1 and 2 in PDF format that can be modified or 
 * please pay attention to the license terms for further information and payment terms
 
 Can also be used on other devices
-* tested - iPad, Onyx Boox Note Air 4C, Onyx Boox Go 10.3
-* not tested - Supernote | Kindle Scribe | OnyxBoox
+* tested - iPad | Onyx Boox Note Air 4C | Onyx Boox Go 10.3
+* not tested - Supernote | Kindle Scribe
 
 
 ## Getting Started
