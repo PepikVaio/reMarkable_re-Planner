@@ -5,9 +5,9 @@
 [![supported: FW](https://img.shields.io/badge/fw_3.xx-supported-green)]()
 [![supported: iPad](https://img.shields.io/badge/iPad-supported-blueviolet)](https://www.apple.com/cz/ipad/)
 
-# re-Planner
+# re-Planner!
 
-Pdf calendar for reMarkable 1 and 2 and more!
+Pdf calendar for reMarkable 1, 2 and more!
 * since 2024 is compatible with reMarkable fw 3.xx
 * no hacks needed
 
