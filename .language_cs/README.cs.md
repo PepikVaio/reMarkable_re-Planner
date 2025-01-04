@@ -21,8 +21,8 @@ Jedná se o šablonu pro reMarkable 1 a 2 ve formátu pdf, kterou lze na přán�
 * věnujte prosím pozornost licenčním podmínkám, kde naleznete další informace a také podmínky platby
 
 Lze použít i na jiných zařízeních
-* testováno - iPad
-* netestováno - Supernote | Kindle Scribe | OnyxBoox
+* testováno - iPad | Onyx Boox Note Air 4C | Onyx Boox Go 10.3
+* netestováno - Supernote | Kindle Scribe
 
 
 
