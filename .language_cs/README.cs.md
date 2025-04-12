@@ -28,7 +28,7 @@ Lze použít i na jiných zařízeních
 
 ## Začínáme
 
-### Závislosti
+### Požadavky
 
 Oficiální program od reMarkable nainstalovaný v PC nebo webové rozhraní reMarkable
 
