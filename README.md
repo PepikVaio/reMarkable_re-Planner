@@ -24,7 +24,7 @@ Can also be used on other devices
 
 ## Getting Started
 
-### Addictions
+### Requirements
 
 Official program from reMarkable installed on PC or the reMarkable web interface
 * [Desktop app](https://my.remarkable.com/device/desktop)
