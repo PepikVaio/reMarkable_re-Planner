@@ -61,7 +61,7 @@ Vytvořte problémy, pokud najdete problém
 
 ## Historie verzí
 
-2026
+2026 (verze 2.0 - nová verze)
 * opravy chyb (doplněn svátek a významný den 06/01/2026)
 * vylepšený obsah (obsahuje odsazení)
 * úprava velikosti záhlaví (změna velikosti panelu reMarkable)
@@ -80,6 +80,8 @@ Vytvořte problémy, pokud najdete problém
 * Nová sekce „Filmy, Knihy“
 * Smazaný nákupní vozík v LITE verzi (kontakt uveden na vrchní stránce)
 * Smazaná stránka verze PRO
+
+2026 (verze 1.0 - stará verze, jako 2025)
 
 2025
 * upravené číslování PRO verzí
