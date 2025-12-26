@@ -59,7 +59,24 @@ Create issues if you find a problem
 ## Version history
 
 2026
-* created prematurely at the request of the client, I will edit further
+* bug fixes (holiday and important day 06/01/2026 added)
+* improved content (contains padding)
+* header size adjustment (reMarkable panel size change)
+* reduced size of text names in header
+* complete link menu on all pages
+* adjustment of table heading size and row height, for the same row size in adjacent columns!!!
+* removed all footnotes (replaced by an infinite page - fewer pages in pdf)
+* moved some pages (help, note, etc…)
+* changed the order in some submenus (help, 1, 2, 3, …)
+* monthly overview added to annual overview
+* monthly overview added to quarterly overview
+* removed submenu (Brainstorming & Ishikawa diagram - replaced by an infinite page)
+* modified description on reconstruction page
+* special days marked with a circular image
+* infinite page (4x scroll down - you don't have to use it)
+* new section "Movies, Books, Music"
+* deleted shopping cart in LITE version (contact given on top page)
+* deleted PRO version page
 
 2025
 * adjusted numbering of PRO versions
