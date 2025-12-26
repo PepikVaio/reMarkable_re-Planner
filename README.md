@@ -58,7 +58,7 @@ Create issues if you find a problem
 
 ## Version history
 
-2026
+2026 (version 2.0 - old version like 2025
 * bug fixes (holiday and important day 06/01/2026 added)
 * improved content (contains padding)
 * header size adjustment (reMarkable panel size change)
@@ -77,6 +77,8 @@ Create issues if you find a problem
 * new section "Movies, Books"
 * deleted shopping cart in LITE version (contact given on top page)
 * deleted PRO version page
+
+2026 (version 1.0 - old version like 2025)
 
 2025
 * adjusted numbering of PRO versions
