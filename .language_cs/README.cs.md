@@ -42,10 +42,11 @@ K dispozici je verze lite, která je zcela zdarma a neobsahuje žádné omezení
 
 [![download](https://img.shields.io/badge/download-latest_release-slategray)](https://github.com/PepikVaio/reMarkable_re-Planner/releases)
 
-Pokud budete mít zájem o verzi pro, která neobsahuje vodoznak a přidává možnost plně si plánovač nakonfigurovat, neváhejte mě kontaktovat
+Také můžete zakoupit verzi na etsy, která neobsahuje vodoznak.
 
-[![en](https://img.shields.io/badge/payment-en-blue.svg)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/PAYMENT.md)
-[![cs](https://img.shields.io/badge/payment-cs-green.svg)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.language_cs/PAYMENT.cs.md)
+[![cs](https://img.shields.io/badge/shop-etsy-orange.svg)](https://www.etsy.com/shop/WajsarJosef)
+
+* Pokud budete mít zájem o verzi PRO, která neobsahuje vodoznak a přidává možnost plně si plánovač nakonfigurovat, neváhejte mě kontaktovat.
 
 ### Instalace
 Stačí nahrát do reMarkable přes oficiální aplikaci reMarkable nebo webové rozhraní
