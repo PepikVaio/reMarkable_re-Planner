@@ -62,7 +62,24 @@ Vytvořte problémy, pokud najdete problém
 ## Historie verzí
 
 2026
-* vytvořené předčasně na přání klienta, budu dále upravovat
+* opravy chyb (doplněn svátek a významný den 06/01/2026)
+* vylepšený obsah (obsahuje odsazení)
+* úprava velikosti záhlaví (změna velikosti panelu reMarkable)
+* zmenšená velikost názvů textů v hlavičce
+* kompletní nabídka odkazů na všech stránkách
+* úprava velikosti nadpisů u tabulky a výšky řádku, pro stejnou velikost řádků u sousedních sloupců!!!
+* odstraněné všechny podpoznámky (nahrazeno nekonečnou stránkou - méně stránek v pdf)
+* přesun některých stránek (pomoc, poznámka, atd…)
+* změna pořadí v některých podmenu (help, 1, 2, 3, …)
+* měsíční přehled doplněn do ročního přehledu
+* měsíční přehled doplněn do kvartální přehled
+* odstraněné submenu (Brainstorming & Ishikawa diagram - nahrazeno nekonečnou stránkou)
+* Upraven popisek u stránky rekonstrukce
+* speciální dny označené kruhovým obrázkem
+* nekonečná stránka (4x posunutí dolů - nemusíte využít)
+* Nová sekce „Filmy, Knihy, Hudba“
+* Smazaný nákupní vozík v LITE verzi (kontakt uveden na vrchní stránce)
+* Smazaná stránka verze PRO
 
 2025
 * upravené číslování PRO verzí
