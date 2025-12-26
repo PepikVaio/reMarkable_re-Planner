@@ -74,7 +74,7 @@ Create issues if you find a problem
 * modified description on reconstruction page
 * special days marked with a circular image
 * infinite page (4x scroll down - you don't have to use it)
-* new section "Movies, Music"
+* new section "Movies, Books"
 * deleted shopping cart in LITE version (contact given on top page)
 * deleted PRO version page
 
