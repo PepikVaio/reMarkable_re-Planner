@@ -58,7 +58,7 @@ Create issues if you find a problem
 
 ## Version history
 
-2026 (version 2.0 - old version like 2025
+2026 (version 2.0 - new version)
 * bug fixes (holiday and important day 06/01/2026 added)
 * improved content (contains padding)
 * header size adjustment (reMarkable panel size change)
