@@ -77,7 +77,7 @@ Vytvořte problémy, pokud najdete problém
 * Upraven popisek u stránky rekonstrukce
 * speciální dny označené kruhovým obrázkem
 * nekonečná stránka (4x posunutí dolů - nemusíte využít)
-* Nová sekce „Filmy, Knihy, Hudba“
+* Nová sekce „Filmy, Knihy“
 * Smazaný nákupní vozík v LITE verzi (kontakt uveden na vrchní stránce)
 * Smazaná stránka verze PRO
 
