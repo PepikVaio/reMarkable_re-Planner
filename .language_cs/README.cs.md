@@ -2,6 +2,7 @@
 [![cs](https://img.shields.io/badge/lang-cs-springgreen.svg)](https://github.com/PepikVaio/reMarkable_re-Planner/blob/main/.language_cs/README.cs.md)
 [![supported: rM1](https://img.shields.io/badge/rM1-supported-green)](https://remarkable.com/store/remarkable)
 [![supported: rM2](https://img.shields.io/badge/rM2-supported-green)](https://remarkable.com/store/remarkable-2)
+[![supported: rMPP](https://img.shields.io/badge/rMPP-supported-green)](https://remarkable.com/products/remarkable-paper/pro)
 [![supported: FW](https://img.shields.io/badge/fw_3.xx-supported-green)]()
 [![supported: iPad](https://img.shields.io/badge/iPad-supported-blueviolet)](https://www.apple.com/cz/ipad/)
 
@@ -9,7 +10,7 @@
 
 # re-Planner!
 
-Pdf kalendář pro reMarkable 1, 2 a další!
+Pdf kalendář pro reMarkable 1, 2, rmpp a další!
 * od roku 2024 je kompatibilní s verzí reMarkable fw 3.xx
 * nejsou potřeba žádné hacky
 
